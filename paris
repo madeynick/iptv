@@ -1,66 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://i2.esmas.com/las-estrellas/favicons/152x152.png" group-title="MEXICO", Las Estrellas
-http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/10451.m3u8
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/las-estrellas/favicons/152x152.png" group-title="MEXICO", Las Estrellas
 http://disfruta.net:8000/live/usuario08NM/Mhv47FDurs3/9.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO", Imagen Tv
 http://disfruta.net:8000/live/usuario08NM/Mhv47FDurs3/14189.m3u8
-#EXTINF:-1 tvg-logo="https://image.freepik.com/psd-gratis/retro-tv-icono-psd_30-2308.jpg" group-title="MEXICO", CLASICOS ACS
-http://inliveserver.com:1935/8468/8468/chunklist_w1443004328.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif" group-title="MEXICO", Canal 5 HD
 http://disfruta.net:8000/live/usuario08NM/Mhv47FDurs3/8.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif" group-title="MEXICO", Canal 5 HD
-http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/10983.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="MEXICO", Azteca 7
-http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="MEXICO", Azteca 7
 http://disfruta.net:8000/live/usuario08NM/Mhv47FDurs3/5.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1014700120074416129/YCBrEdko_400x400.jpg" group-title="MEXICO", Canal Nu9ve
-http://tv.latintvweb.com:25461/live/a27mj/vncvPZabFI/131366.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1014700120074416129/YCBrEdko_400x400.jpg" group-title="MEXICO", Canal Nu9ve
 http://disfruta.net:8000/live/usuario08NM/Mhv47FDurs3/11.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", Canal Once
-http://tv.latintvweb.com:25461/live/a27mj/vncvPZabFI/92475.m3u8
-#EXTINF:-1 tvg-logo="http://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg" group-title="MEXICO", Azteca Uno
-http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg" group-title="MEXICO", Azteca Uno
 http://disfruta.net:8000/live/usuario08NM/Mhv47FDurs3/6.m3u8
-#EXTINF:-1 tvg-logo="http://vertvgratis.us/wp-content/uploads/2017/08/CANAL-A.jpg" group-title="MEXICO", Azteca+ Plus
-http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
-#EXTINF:-1 tvg-logo="http://vertvgratis.us/wp-content/uploads/2017/08/CANAL-A.jpg" group-title="MEXICO", Azteca+ Plus
-http://live-aztecanoreste.kystream.com/h9ydbwnjcoe/p7UAKSv6AZ_low/index.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/reOZL/d936c27d8a.png" group-title="MEXICO", Az Mundo
 http://disfruta.net:8000/live/usuario08NM/Mhv47FDurs3/23524.m3u8
+
 #EXTINF:-1 tvg-logo="http://puu.sh/reKy9/756ca89d9b.png" group-title="MEXICO", Az Corazon
 http://disfruta.net:8000/live/usuario08NM/Mhv47FDurs3/7.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/reKF3/42c6f26362.png" group-title="MEXICO", Az Clic
 http://disfruta.net:8000/live/usuario08NM/Mhv47FDurs3/23526.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.expansion.mx/dims4/default/de126e6/2147483647/thumbnail/800x450%5E/quality/75/?url=https%3A%2F%2Fcdn.expansion.mx%2Fmedia%2F2015%2F09%2F28%2Fel-logo-del-canal-que-sumar-esfuerzo-de-televisiones-educativas-de-iberoamrica.jpg" group-title="MEXICO", Canal Iberoamericano
-http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-cmw1yRJqfTA/AAAAAAAAAAI/AAAAAAAAAAA/MO0nxnZqRtU/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO", CAPITAL 21 CDMX
-http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/media/CsMXThRUkAARDbk.jpg" group-title="MEXICO", Ciudad Tv 21.2
-http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://www.spr.gob.mx/img/ligas_interes/logo_canal_22.jpg" group-title="MEXICO", Canal 22
-http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8
-#EXTINF:-1 tvg-logo="http://oreox.net/images/logos-canales/101.png" group-title="MEXICO", TV MEXIQUENSE
-http://iptv.wtf:25461/live/twnnwkub/nA3S4ld08x/11211.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="MEXICO", MVS Tv
-http://tv.latintvweb.com:25461/live/a27mj/vncvPZabFI/92491.m3u8
-#EXTINF:-1 tvg-logo="http://nrtmexico.mx/site/images/sampledata/icetheme/slideshow/c4_slide_a.jpg" group-title="MEXICO", Canal 4 Monclova
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.rcgespectaculares.com.mx/images/rcg-logo-2014-288.png" group-title="MEXICO", RCG TV1
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.rcgespectaculares.com.mx/images/rcg-logo-2014-288.png" group-title="MEXICO", RCG TV2
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://is2.mzstatic.com/image/thumb/Purple71/v4/5d/2f/1c/5d2f1cb1-3a21-71ff-c10c-e27253ba13dc/source/1200x630bb.jpg" 
-group-title="MEXICO", 15TV Sabinas
-http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="MEXICO",
- Multimedios CDMX
-http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="MEXICO",
  Multimedios Laguna
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
