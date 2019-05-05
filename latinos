@@ -2,143 +2,44 @@
 
 #EXTINF:-2 tvg-logo="https://fotos.subefotos.com/ca255fe4e6597fd3364aa520d57cf6d1o.png", Colombia CANAL CAPITAL 
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-
-
-#EXTINF: -8 tvg-logo = "https://i.imgur.com/jrJAdPU.png" group-title = "COLOMBIA", Colombia Canal Antiestres
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
-#EXTINF:-9 tvg-logo="https://fotos.subefotos.com/1ff1bb97a1e9b7027a1dc4aa3ef0fa65o.png", Colombia SEÑAL INSTITUCIONAL
-https://liveingesta360.cdnmedia.tv//rtvcsinstitucionallive/smil:live2.smil/chunklist_b1500000.m3u8
 #EXTINF:-10 tvg-logo="https://i.imgur.com/4kxdGZo.png" group-title="COLOMBIA",CO: Colombia TELEPACIFICO
 https://cdn.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
-
-
 #EXTINF: -12 tvg-logo = "https://i.imgur.com/HZxwCAh.png" group-title = "COLOMBIA", Colombia Telecaribe 
 http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
-
-
-
 #EXTINF:-13 tvg-logo="https://fotos.subefotos.com/12948a7410568aa687a471e84d529c27o.png", Colombia CANAL TR3CE
 https://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/chunklist_b4500000.m3u8
-
-
 #EXTINF: -14 tvg-logo = "https://i.imgur.com/StkPNjx.png" group-title = "COLOMBIA", Colombia Canal 14
 http://181.143.238.252/live/livestream/index.m3u8
-
-
 #EXTINF: -15 tvg-logo = "https://i.imgur.com/PJFFPAL.png" group-title = "COLOMBIA", Colombia Cali TV
 http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
-
-
-#EXTINF: -16 tvg-logo = "https://static.wixstatic.com/media/fdd1b1_ea866a37c0114866acf8472c1f42000d~mv2.png" group-title = "COLOMBIA", Colombia Telemedellin
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
-
-
-#EXTINF:-22 tvg-logo="https://yt3.ggpht.com/-3y0PLzhwrig/AAAAAAAAAAI/AAAAAAAAAAA/u423NXvcb_4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Colombia Teleantioquia HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
-
-
-#EXTINF:-23 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Teleislas.png", colombia Teleislas
-http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
-
-
 #EXTINF:-24 tvg-logo="https://fotos.subefotos.com/af5a003e68af2be7f5b25140848052b2o.png", Colombia TELEENVIGADO
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
-
-
-#EXTINF:-25 tvg-logo="https://i.imgur.com/qgZghZl.png" group-title="COLOMBIA",CO: Colombia TV AGRO
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
-
-
-#EXTINF:-26 tvg-logo="http://www.mundomas.tv/wp-content/uploads/2017/03/logo1.png", Colombia Mundo +
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-
-
-#EXTINF:-27 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5692_7_32273.jpg" group-title="COLOMBIA", Colombia Zoom TV
-http://liveingesta118.cdnmedia.tv/canalzoomlive/streamingcanalzoom.smil/chunklist_b900000.m3u8
-
-
 #EXTINF:-28 tvg-logo = "https://i.imgur.com/4pibrCO.jpg" group-title = "COLOMBIA", Colombia Red  
 http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
-
-
-#EXTINF:-29 tvg-logo="http://4.bp.blogspot.com/-MJZ3A3u6E78/U-JWxeGtvrI/AAAAAAAACzg/mFikMtH2yW0/s1600/life_design_tv.png", Colombia Life Design
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
-
-
-#EXTINF:-30 tvg-logo="https://fotos.subefotos.com/a00bad452b2cb0b5109a4dd6c13bca11o.png", Colombia TRENDY CHANNEL
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
-
-
-
-#EXTINF:38, Colombia  CNC QINDO
-http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
-
-
 #EXTINF:-43 tvg-logo="http://devocionalescristianos.org/wp-content/uploads/2008/10/enlace-juvenil.jpg", Colombia Enlace Juvenil
 http://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
-
 #EXTINF:-48 tvg-logo="https://fotos.subefotos.com/97c2fb36d132065c851d40f8d9bb1c3fo.png", Colombia CANAL 4 UAO Cali
 http://streaming-ca.enetres.net/184784E1D210401F8041E3E1266822CC021/smil:live.smil/chunklist.m3u8
-
-
 #EXTINF:-73 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", Peru Tv
 https://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
-
-
 #EXTINF:-74 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Lda3xv_LpuM/hqdefault.jpg" group-title="PERU", Peru Antares TV 
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-
-
 #EXTINF:-75 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/yBX7ApyGx3c/hqdefault.jpg" group-title="PERU", Peru BHtv 
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
-
 #EXTINF:-77 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1b/RBC_Television_%28Variante%29.jpg" group-title="PERU", Peru RBC TV 
 http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
-
-
 #EXTINF:-78 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/500px-Sol_tv_pe.png" group-title="PERU", Peru Sol TV 
 http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
-
-
-#EXTINF:-79 tvg-id="" tvg-name="" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/tv-sat4.jpg" group-title="PERU",Peru TVS Satelital
-http://181.198.10.23:1935/live2/smil:teradek.smil/playlist.m3u8
-
-
 #EXTINF:-1,TV COSMOS PERU
 http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w911600877.m3u8
-
-
-#EXTINF:-82 tvg-logo="https://i.imgur.com/YLMsGKN.png" group-title="PERU", Peru Onda Digital TV
-http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
- 
- 
-#EXTINF: -1 tvg-logo = "http://www.ssb.com.pe/images/monterrico%20tv.jpg" group-title = "PERU", Peru Monterrico TV  
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
- 
-
 #EXTINF:-84 tvg-logo="http://i.imgur.com/Xwbpj7i.jpg" group-title="Canales Peruanos", Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
- 
-
 #EXTINF:-85 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU", Peru Central TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-
-
 #EXTINF:- 1 , Peru RVC TV
 http://184.154.28.210:1935/rbc-tv/rbc-tv/chunklist_w1138746523.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="Latinos", Ecuador Teleamazonas
 http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
-
-
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/4NrMvtD.jpg" group-title = "ECUADOR", Ecuador CANELA TV
-http://servicioamerica.com:1935/8200/8200/chunklist_w552433876.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BMF07Lq.png" group-title="ECUADOR", Ecuador TC
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/110247/logo_television%20nacional%20de%20ecuador2.png", Ecuador TVN
 http://181.198.10.23:1935/live2/smil:teradek.smil/chunklist_w151492058_b1024000_sleng.m3u8
