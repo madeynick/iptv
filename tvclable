@@ -1,0 +1,859 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="28- PREMIUM LATINO",Amc (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/38654
+#EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="28- PREMIUM LATINO",Amc (3)
+http://158.69.127.36:25461/bron/bron/547
+#EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="28- PREMIUM LATINO",Amc (4)
+http://158.69.127.36:25461/medina/medina/547
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (1)
+http://pcjatv.com:8080/demo/demo/28736
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/49443
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (3)
+http://158.69.127.36:25461/bron/bron/490
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (4)
+http://158.69.127.36:25461/medina/medina/490
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (5)
+http://pcjatv.com:8080/Kerry/Kerry/28736
+
+#EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (1)
+http://pcjatv.com:8080/demo/demo/28761
+#EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/49452
+#EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (3)
+http://158.69.127.36:25461/bron/bron/542
+#EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (4)
+http://158.69.127.36:25461/medina/medina/542
+#EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (5)
+http://pcjatv.com:8080/Kerry/Kerry/28761
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (1)
+http://pcjatv.com:8080/demo/demo/28763
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/46563
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (5)
+http://pcjatv.com:8080/Kerry/Kerry/28763
+
+#EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita (1)
+http://pcjatv.com:8080/demo/demo/28762
+#EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/49446
+#EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita (5)
+http://pcjatv.com:8080/Kerry/Kerry/28762
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (1)
+http://pcjatv.com:8080/demo/demo/28765
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/49449
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (3)
+http://158.69.127.36:25461/bron/bron/18087
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (4)
+http://158.69.127.36:25461/medina/medina/18087
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (5)
+http://pcjatv.com:8080/Kerry/Kerry/28765
+
+#EXTINF:-1 tvg-logo="http://newprinter.com.ar/wp-content/uploads/2019/02/claro-pb-logo-vector-400x400.png" group-title="28- PREMIUM LATINO",Claro Cinema (1)
+http://pcjatv.com:8080/demo/demo/28755
+#EXTINF:-1 tvg-logo="http://newprinter.com.ar/wp-content/uploads/2019/02/claro-pb-logo-vector-400x400.png" group-title="28- PREMIUM LATINO",Claro Cinema (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/148613
+#EXTINF:-1 tvg-logo="http://newprinter.com.ar/wp-content/uploads/2019/02/claro-pb-logo-vector-400x400.png" group-title="28- PREMIUM LATINO",Claro Cinema (3)
+http://158.69.127.36:25461/bron/bron/49507
+#EXTINF:-1 tvg-logo="http://newprinter.com.ar/wp-content/uploads/2019/02/claro-pb-logo-vector-400x400.png" group-title="28- PREMIUM LATINO",Claro Cinema (4)
+http://158.69.127.36:25461/medina/medina/49507
+#EXTINF:-1 tvg-logo="http://newprinter.com.ar/wp-content/uploads/2019/02/claro-pb-logo-vector-400x400.png" group-title="28- PREMIUM LATINO",Claro Cinema (5)
+http://pcjatv.com:8080/Kerry/Kerry/28755
+
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (1)
+http://pcjatv.com:8080/demo/demo/28771
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/3015
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (3)
+http://158.69.127.36:25461/bron/bron/492
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (4)
+http://158.69.127.36:25461/medina/medina/492
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (5)
+http://pcjatv.com:8080/Kerry/Kerry/28771
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (1)
+http://pcjatv.com:8080/demo/demo/28782
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (3)
+http://158.69.127.36:25461/bron/bron/554
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (4)
+http://158.69.127.36:25461/medina/medina/554
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (5)
+http://pcjatv.com:8080/Kerry/Kerry/28782
+
+#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="28- PREMIUM LATINO",De Película Plus (1)
+http://pcjatv.com:8080/demo/demo/28783
+#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="28- PREMIUM LATINO",De Película Plus (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/31759
+#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="28- PREMIUM LATINO",De Película Plus (3)
+http://158.69.127.36:25461/bron/bron/546
+#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="28- PREMIUM LATINO",De Película Plus (4)
+http://158.69.127.36:25461/medina/medina/546
+#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="28- PREMIUM LATINO",De Película Plus (5)
+http://pcjatv.com:8080/Kerry/Kerry/28783
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="28- PREMIUM LATINO",Dhe (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/46568
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="28- PREMIUM LATINO",Dhe (3)
+http://158.69.127.36:25461/bron/bron/148245
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="28- PREMIUM LATINO",Dhe (4)
+http://158.69.127.36:25461/medina/medina/148245
+
+#EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/52464
+#EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (3)
+http://158.69.127.36:25461/bron/bron/508
+#EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (4)
+http://158.69.127.36:25461/medina/medina/508
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/EURO_LOGO_FINALE.jpg" group-title="28- PREMIUM LATINO",EuroChannel_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="28- PREMIUM LATINO",Europa Europa (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/29295
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="28- PREMIUM LATINO",Europa Europa (3)
+http://158.69.127.36:25461/bron/bron/556
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="28- PREMIUM LATINO",Europa Europa (4)
+http://158.69.127.36:25461/medina/medina/556
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/49460
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (3)
+http://158.69.127.36:25461/bron/bron/484
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (4)
+http://158.69.127.36:25461/medina/medina/484
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (1)
+http://pcjatv.com:8080/demo/demo/28814
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/49459
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (5)
+http://pcjatv.com:8080/Kerry/Kerry/28814
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (1)
+http://pcjatv.com:8080/demo/demo/28816
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/76402
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (3)
+http://158.69.127.36:25461/bron/bron/202904
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (4)
+http://158.69.127.36:25461/medina/medina/202904
+
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (1)
+http://pcjatv.com:8080/demo/demo/28815
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/38676
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (5)
+http://pcjatv.com:8080/Kerry/Kerry/28815
+
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_COMEDY.png" group-title="28- PREMIUM LATINO",Fox Comedy (1)
+http://pcjatv.com:8080/demo/demo/28817
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_COMEDY.png" group-title="28- PREMIUM LATINO",Fox Comedy (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/38674
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_COMEDY.png" group-title="28- PREMIUM LATINO",Fox Comedy (5)
+http://pcjatv.com:8080/Kerry/Kerry/28817
+
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (1)
+http://pcjatv.com:8080/demo/demo/28819
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/29298
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (3)
+http://158.69.127.36:25461/bron/bron/9266
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (4)
+http://158.69.127.36:25461/medina/medina/9266
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (5)
+http://pcjatv.com:8080/Kerry/Kerry/28819
+
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (1)
+http://pcjatv.com:8080/demo/demo/28821
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/49489
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (5)
+http://pcjatv.com:8080/Kerry/Kerry/28821
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (1)
+http://pcjatv.com:8080/demo/demo/28822
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/76275
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (3)
+http://158.69.127.36:25461/bron/bron/538
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (4)
+http://158.69.127.36:25461/medina/medina/538
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (5)
+http://pcjatv.com:8080/Kerry/Kerry/28822
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (1)
+http://pcjatv.com:8080/demo/demo/28824
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/49461
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (3)
+http://158.69.127.36:25461/bron/bron/536
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (4)
+http://158.69.127.36:25461/medina/medina/536
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (5)
+http://pcjatv.com:8080/Kerry/Kerry/28824
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (1)
+http://pcjatv.com:8080/demo/demo/28829
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/49462
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (3)
+http://158.69.127.36:25461/bron/bron/488
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (4)
+http://158.69.127.36:25461/medina/medina/488
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (5)
+http://pcjatv.com:8080/Kerry/Kerry/28829
+
+#EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/49464
+#EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (3)
+http://158.69.127.36:25461/bron/bron/545
+#EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (4)
+http://158.69.127.36:25461/medina/medina/545
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-JnaRqfsfRf0/VVJ222hRX7I/AAAAAAAAAbw/svcXPJkGr5E/s1600/golden.png" group-title="28- PREMIUM LATINO",Golden (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/9078
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-JnaRqfsfRf0/VVJ222hRX7I/AAAAAAAAAbw/svcXPJkGr5E/s1600/golden.png" group-title="28- PREMIUM LATINO",Golden (3)
+http://158.69.127.36:25461/bron/bron/552
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-JnaRqfsfRf0/VVJ222hRX7I/AAAAAAAAAbw/svcXPJkGr5E/s1600/golden.png" group-title="28- PREMIUM LATINO",Golden (4)
+http://158.69.127.36:25461/medina/medina/552
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png" group-title="28- PREMIUM LATINO",Golden Edge (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/38467
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png" group-title="28- PREMIUM LATINO",Golden Edge (3)
+http://158.69.127.36:25461/bron/bron/553
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png" group-title="28- PREMIUM LATINO",Golden Edge (4)
+http://158.69.127.36:25461/medina/medina/553
+
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/g-plus.png" group-title="28- PREMIUM LATINO",Golden Plus (1)
+http://pcjatv.com:8080/demo/demo/28835
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/g-plus.png" group-title="28- PREMIUM LATINO",Golden Plus (1)
+http://pcjatv.com:8080/demo/demo/28836
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/g-plus.png" group-title="28- PREMIUM LATINO",Golden Plus (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/31775
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/g-plus.png" group-title="28- PREMIUM LATINO",Golden Plus (3)
+http://158.69.127.36:25461/bron/bron/544
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/g-plus.png" group-title="28- PREMIUM LATINO",Golden Plus (4)
+http://158.69.127.36:25461/medina/medina/544
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/g-plus.png" group-title="28- PREMIUM LATINO",Golden Plus (5)
+http://pcjatv.com:8080/Kerry/Kerry/28835
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/g-plus.png" group-title="28- PREMIUM LATINO",Golden Plus (5)
+http://pcjatv.com:8080/Kerry/Kerry/28836
+
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png" group-title="28- PREMIUM LATINO",Golden Premier (1)
+http://pcjatv.com:8080/demo/demo/28834
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png" group-title="28- PREMIUM LATINO",Golden Premier (1)
+http://pcjatv.com:8080/demo/demo/28837
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png" group-title="28- PREMIUM LATINO",Golden Premier (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/3052
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png" group-title="28- PREMIUM LATINO",Golden Premier (3)
+http://158.69.127.36:25461/bron/bron/74999
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png" group-title="28- PREMIUM LATINO",Golden Premier (4)
+http://158.69.127.36:25461/medina/medina/74999
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png" group-title="28- PREMIUM LATINO",Golden Premier (5)
+http://pcjatv.com:8080/Kerry/Kerry/28834
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png" group-title="28- PREMIUM LATINO",Golden Premier (5)
+http://pcjatv.com:8080/Kerry/Kerry/28837
+
+#EXTINF:-1 tvg-logo="https://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/238-Golden-Premier-2-01.jpg" group-title="28- PREMIUM LATINO",Golden Premier 2_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/38690
+#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo (3)
+http://158.69.127.36:25461/west/west/18079
+#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo (3)
+http://158.69.127.36:25461/bron/bron/18086
+#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo (4)
+http://158.69.127.36:25461/medina/medina/18086
+
+#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (1)
+http://pcjatv.com:8080/demo/demo/28850
+#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/29301
+#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (3)
+http://158.69.127.36:25461/bron/bron/760
+#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (4)
+http://158.69.127.36:25461/medina/medina/760
+#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (5)
+http://pcjatv.com:8080/Kerry/Kerry/28850
+
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/38687
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (3)
+http://158.69.127.36:25461/bron/bron/202457
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (4)
+http://158.69.127.36:25461/medina/medina/202457
+
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbomundiGris_Enero20v2.png" group-title="28- PREMIUM LATINO",Hbo Mundi (3)
+http://158.69.127.36:25461/bron/bron/6754
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbomundiGris_Enero20v2.png" group-title="28- PREMIUM LATINO",Hbo Mundi (4)
+http://158.69.127.36:25461/medina/medina/6754
+
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (1)
+http://pcjatv.com:8080/demo/demo/28851
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/38685
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (3)
+http://158.69.127.36:25461/bron/bron/74998
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (4)
+http://158.69.127.36:25461/medina/medina/74998
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (5)
+http://pcjatv.com:8080/Kerry/Kerry/28851
+
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012533/0000_all_l_hboall-HBO-POP-Black.png" group-title="28- PREMIUM LATINO",Hbo Pop (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/29305
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012533/0000_all_l_hboall-HBO-POP-Black.png" group-title="28- PREMIUM LATINO",Hbo Pop (3)
+http://158.69.127.36:25461/bron/bron/9267
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012533/0000_all_l_hboall-HBO-POP-Black.png" group-title="28- PREMIUM LATINO",Hbo Pop (4)
+http://158.69.127.36:25461/medina/medina/9267
+
+#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="28- PREMIUM LATINO",Hbo Signature (1)
+http://pcjatv.com:8080/demo/demo/28852
+#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="28- PREMIUM LATINO",Hbo Signature (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/49289
+#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="28- PREMIUM LATINO",Hbo Signature (3)
+http://158.69.127.36:25461/bron/bron/18083
+#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="28- PREMIUM LATINO",Hbo Signature (4)
+http://158.69.127.36:25461/medina/medina/18083
+#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="28- PREMIUM LATINO",Hbo Signature (5)
+http://pcjatv.com:8080/Kerry/Kerry/28852
+
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme (1)
+http://pcjatv.com:8080/demo/demo/28861
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/148594
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/38692
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme (3)
+http://158.69.127.36:25461/bron/bron/114302
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme (4)
+http://158.69.127.36:25461/medina/medina/114302
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme (5)
+http://pcjatv.com:8080/Kerry/Kerry/28861
+
+#EXTINF:-1 tvg-logo="http://ps.vimeo.com.s3.amazonaws.com/962/96284_300.jpg" group-title="28- PREMIUM LATINO",I Sat (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/9121
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/multipremier-logo-01.png" group-title="28- PREMIUM LATINO",Multipremier (3)
+http://158.69.127.36:25461/bron/bron/122796
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/multipremier-logo-01.png" group-title="28- PREMIUM LATINO",Multipremier (4)
+http://158.69.127.36:25461/medina/medina/122796
+
+#EXTINF:-1 tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/outermax-300x300.png" group-title="28- PREMIUM LATINO",Outermax (1)
+http://pcjatv.com:8080/demo/demo/28885
+#EXTINF:-1 tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/outermax-300x300.png" group-title="28- PREMIUM LATINO",Outermax (5)
+http://pcjatv.com:8080/Kerry/Kerry/28885
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="28- PREMIUM LATINO",Paramount (1)
+http://pcjatv.com:8080/demo/demo/28901
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="28- PREMIUM LATINO",Paramount (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/3077
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="28- PREMIUM LATINO",Paramount (5)
+http://pcjatv.com:8080/Kerry/Kerry/28901
+
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/showtime-2-logo-png-transparent.png" group-title="28- PREMIUM LATINO",Showtime (3)
+http://158.69.127.36:25461/bron/bron/18084
+
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (1)
+http://pcjatv.com:8080/demo/demo/28910
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/49474
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (3)
+http://158.69.127.36:25461/bron/bron/485
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (4)
+http://158.69.127.36:25461/medina/medina/485
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (5)
+http://pcjatv.com:8080/Kerry/Kerry/28910
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (1)
+http://pcjatv.com:8080/demo/demo/28911
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/49477
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (3)
+http://158.69.127.36:25461/bron/bron/548
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (4)
+http://158.69.127.36:25461/medina/medina/548
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (5)
+http://pcjatv.com:8080/Kerry/Kerry/28911
+
+#EXTINF:-1 tvg-logo="https://television.mxdwn.com/wp-content/uploads/2016/03/mxdwn_starz.png" group-title="28- PREMIUM LATINO",Starz (1)
+http://pcjatv.com:8080/demo/demo/28915
+#EXTINF:-1 tvg-logo="https://television.mxdwn.com/wp-content/uploads/2016/03/mxdwn_starz.png" group-title="28- PREMIUM LATINO",Starz (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/38496
+#EXTINF:-1 tvg-logo="https://television.mxdwn.com/wp-content/uploads/2016/03/mxdwn_starz.png" group-title="28- PREMIUM LATINO",Starz (3)
+http://158.69.127.36:25461/bron/bron/18081
+#EXTINF:-1 tvg-logo="https://television.mxdwn.com/wp-content/uploads/2016/03/mxdwn_starz.png" group-title="28- PREMIUM LATINO",Starz (5)
+http://pcjatv.com:8080/Kerry/Kerry/28915
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz_cinema.png" group-title="28- PREMIUM LATINO",Starz Cinema (1)
+http://pcjatv.com:8080/demo/demo/28913
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz_cinema.png" group-title="28- PREMIUM LATINO",Starz Cinema (5)
+http://pcjatv.com:8080/Kerry/Kerry/28913
+
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/277-2770655_starz-comedy-channel-logo-hd-png-download.png" group-title="28- PREMIUM LATINO",Starz Comedy (1)
+http://pcjatv.com:8080/demo/demo/28914
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/277-2770655_starz-comedy-channel-logo-hd-png-download.png" group-title="28- PREMIUM LATINO",Starz Comedy (5)
+http://pcjatv.com:8080/Kerry/Kerry/28914
+
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/277-2770652_image-g-ery-starz-logo-starz-edge-hd.png" group-title="28- PREMIUM LATINO",Starz Edge (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/76361
+
+#EXTINF:-1 tvg-logo="https://www.htcinc.net/wp-content/uploads/2019/03/starz-encore.jpg" group-title="28- PREMIUM LATINO",Starz Encore (1)
+http://pcjatv.com:8080/demo/demo/28919
+#EXTINF:-1 tvg-logo="https://www.htcinc.net/wp-content/uploads/2019/03/starz-encore.jpg" group-title="28- PREMIUM LATINO",Starz Encore (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/65764
+#EXTINF:-1 tvg-logo="https://www.htcinc.net/wp-content/uploads/2019/03/starz-encore.jpg" group-title="28- PREMIUM LATINO",Starz Encore (5)
+http://pcjatv.com:8080/Kerry/Kerry/28919
+
+#EXTINF:-1 tvg-logo="https://television.mxdwn.com/wp-content/uploads/2016/03/mxdwn_starz.png" group-title="28- PREMIUM LATINO",Starz Este (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/38501
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz_family.png" group-title="28- PREMIUM LATINO",Starz Kids (1)
+http://pcjatv.com:8080/demo/demo/28923
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz_family.png" group-title="28- PREMIUM LATINO",Starz Kids (5)
+http://pcjatv.com:8080/Kerry/Kerry/28923
+
+#EXTINF:-1 tvg-logo="https://television.mxdwn.com/wp-content/uploads/2016/03/mxdwn_starz.png" group-title="28- PREMIUM LATINO",Starz Oeste (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/76360
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/38707
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (3)
+http://158.69.127.36:25461/bron/bron/555
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (4)
+http://158.69.127.36:25461/medina/medina/555
+
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (1)
+http://pcjatv.com:8080/demo/demo/28929
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/49316
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (3)
+http://158.69.127.36:25461/bron/bron/501
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (4)
+http://158.69.127.36:25461/medina/medina/501
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (5)
+http://pcjatv.com:8080/Kerry/Kerry/28929
+
+#EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (1)
+http://pcjatv.com:8080/demo/demo/28930
+#EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/49479
+#EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (3)
+http://158.69.127.36:25461/bron/bron/509
+#EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (4)
+http://158.69.127.36:25461/medina/medina/509
+#EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (5)
+http://pcjatv.com:8080/Kerry/Kerry/28930
+
+#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (1)
+http://pcjatv.com:8080/demo/demo/28931
+#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/49475
+#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (5)
+http://pcjatv.com:8080/Kerry/Kerry/28931
+
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/49481
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (3)
+http://158.69.127.36:25461/bron/bron/543
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (4)
+http://158.69.127.36:25461/medina/medina/543
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (1)
+http://pcjatv.com:8080/demo/demo/28946
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (1)
+http://pcjatv.com:8080/demo/demo/28947
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/70755
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (3)
+http://158.69.127.36:25461/bron/bron/503
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (4)
+http://158.69.127.36:25461/medina/medina/503
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (5)
+http://pcjatv.com:8080/Kerry/Kerry/28946
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (5)
+http://pcjatv.com:8080/Kerry/Kerry/28947
+
+#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (1)
+http://pcjatv.com:8080/demo/demo/28878
+#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/9133
+#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (3)
+http://158.69.127.36:25461/bron/bron/487
+#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (4)
+http://158.69.127.36:25461/medina/medina/487
+#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (5)
+http://pcjatv.com:8080/Kerry/Kerry/28878
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (1)
+http://pcjatv.com:8080/demo/demo/28979
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/66257
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (3)
+http://158.69.127.36:25461/bron/bron/486
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (4)
+http://158.69.127.36:25461/medina/medina/486
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (5)
+http://pcjatv.com:8080/Kerry/Kerry/28979
+#EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/atreseries-logo-h.jpg" group-title="11- ESPAÑA",A3Series (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/9102
+
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/A3CIN.PNG" group-title="11- ESPAÑA",A3Cine_OFF_
+
+
+#EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/alcarria-tv-en-directo.png" group-title="11- ESPAÑA",Alcarria TV⁻ˢᵈ⁻
+http://217.182.77.27/live/alcarriatv-livestream.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AMCHD.png" group-title="11- ESPAÑA",Amc (3)
+http://158.69.127.36:25461/bron/bron/202199
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AMCHD.png" group-title="11- ESPAÑA",Amc (4)
+http://158.69.127.36:25461/medina/medina/202199
+
+#EXTINF:-1 tvg-logo="https://www.miwuki.com/wp-content/uploads/2016/10/logo-antena-3.png" group-title="11- ESPAÑA",Antena 3_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/aragon-tv-logo.png" group-title="11- ESPAÑA",Aragon tv_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="11- ESPAÑA",Axn (3)
+http://158.69.127.36:25461/bron/bron/202202
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="11- ESPAÑA",Axn (4)
+http://158.69.127.36:25461/medina/medina/202202
+
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AXWHD.png" group-title="11- ESPAÑA",Axn White (3)
+http://158.69.127.36:25461/bron/bron/202203
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AXWHD.png" group-title="11- ESPAÑA",Axn White (4)
+http://158.69.127.36:25461/medina/medina/202203
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_babytv_m.png" group-title="11- ESPAÑA",Baby tv_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://baul.mediaset.es/dist/assets/seo/logo_bemad.png" group-title="11- ESPAÑA",Be Mad_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-aenetworks-tv.s3.amazonaws.com/network-images/BLAZE.png" group-title="11- ESPAÑA",Blaze_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="11- ESPAÑA",Boing_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/calle13-1.png" group-title="11- ESPAÑA",Calle 13 (3)
+http://158.69.127.36:25461/bron/bron/202201
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/calle13-1.png" group-title="11- ESPAÑA",Calle 13 (4)
+http://158.69.127.36:25461/medina/medina/202201
+
+#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/1f/1355295.png" group-title="11- ESPAÑA",Canal #0 (3)
+http://158.69.127.36:25461/bron/bron/202188
+#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/1f/1355295.png" group-title="11- ESPAÑA",Canal #0 (4)
+http://158.69.127.36:25461/medina/medina/202188
+
+#EXTINF:-1 tvg-logo="https://www.comparaiso.es/sites/comparaiso.es/files/images/logos/vamos-movistar-200x300.png" group-title="11- ESPAÑA",Canal #Vamos (3)
+http://158.69.127.36:25461/bron/bron/202231
+#EXTINF:-1 tvg-logo="https://www.comparaiso.es/sites/comparaiso.es/files/images/logos/vamos-movistar-200x300.png" group-title="11- ESPAÑA",Canal #Vamos (4)
+http://158.69.127.36:25461/medina/medina/202231
+
+#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="11- ESPAÑA",Canal 24 Horas (3)
+http://158.69.127.36:25461/bron/bron/10268
+#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="11- ESPAÑA",Canal 24 Horas (4)
+http://158.69.127.36:25461/medina/medina/10268
+
+#EXTINF:-1 tvg-logo="http://webtv.7tvregiondemurcia.es/assets/home/images/logos/television-region-mucia.png" group-title="11- ESPAÑA",Canal 7 Murcia⁻ˢᵈ⁻
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://www.conecta.es/images/noticias/AMC/canal-cocina.png" group-title="11- ESPAÑA",Canal Cocina (3)
+http://158.69.127.36:25461/bron/bron/202234
+#EXTINF:-1 tvg-logo="https://www.conecta.es/images/noticias/AMC/canal-cocina.png" group-title="11- ESPAÑA",Canal Cocina (4)
+http://158.69.127.36:25461/medina/medina/202234
+
+#EXTINF:-1 tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png" group-title="11- ESPAÑA",Canal Orbe 21_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/PANDA.png" group-title="11- ESPAÑA",Canal Panda_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="http://www.blaguemultimedia.com/wp-content/uploads/2014/12/logo-Andalucia-Television.png" group-title="11- ESPAÑA",Canal Sur_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="11- ESPAÑA",Caza y Pezca (3)
+http://158.69.127.36:25461/bron/bron/202209
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="11- ESPAÑA",Caza y Pezca (4)
+http://158.69.127.36:25461/medina/medina/202209
+
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/clan.png" group-title="11- ESPAÑA",Clan_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="11- ESPAÑA",Comedy Central (3)
+http://158.69.127.36:25461/bron/bron/202189
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="11- ESPAÑA",Comedy Central (4)
+http://158.69.127.36:25461/medina/medina/202189
+
+#EXTINF:-1 tvg-logo="https://www.cosmopolitantv.es/img/logorrss.png" group-title="11- ESPAÑA",Cosmo_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Crimen-Investigacion-logo-2017.jpg" group-title="11- ESPAÑA",Crimen Investigacion (3)
+http://158.69.127.36:25461/bron/bron/202212
+#EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Crimen-Investigacion-logo-2017.jpg" group-title="11- ESPAÑA",Crimen Investigacion (4)
+http://158.69.127.36:25461/medina/medina/202212
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="11- ESPAÑA",Cuatro⁻ˢᵈ⁻
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="11- ESPAÑA",Cuatro (3)
+http://158.69.127.36:25461/bron/bron/198797
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="11- ESPAÑA",Cuatro (4)
+http://158.69.127.36:25461/medina/medina/198797
+
+#EXTINF:-1 tvg-logo="https://casadecor.es/assets/uploads/2017/02/decasa.png" group-title="11- ESPAÑA",DeCasa_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="11- ESPAÑA",Discovery Channel (3)
+http://158.69.127.36:25461/bron/bron/202208
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="11- ESPAÑA",Discovery Channel (4)
+http://158.69.127.36:25461/medina/medina/202208
+
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/discoverymax.png" group-title="11- ESPAÑA",Discovery Max_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="11- ESPAÑA",Disney Channel (3)
+http://158.69.127.36:25461/bron/bron/202218
+#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="11- ESPAÑA",Disney Channel (4)
+http://158.69.127.36:25461/medina/medina/202218
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="11- ESPAÑA",Disney Junior (3)
+http://158.69.127.36:25461/bron/bron/202217
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="11- ESPAÑA",Disney Junior (4)
+http://158.69.127.36:25461/medina/medina/202217
+
+#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="11- ESPAÑA",Disney XD_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://descargarrevistas.com/wp-content/uploads/2018/12/divinity.jpg" group-title="11- ESPAÑA",Divinity⁻ˢᵈ⁻
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/10/dkiss-en-directo-online-1.png" group-title="11- ESPAÑA",Dkiss (3)
+http://158.69.127.36:25461/bron/bron/202187
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/10/dkiss-en-directo-online-1.png" group-title="11- ESPAÑA",Dkiss (4)
+http://158.69.127.36:25461/medina/medina/202187
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-FeitpcROtPU/TwIEowk2izI/AAAAAAAAATI/g0HN4up-TH0/s1600/canal-energy.png" group-title="11- ESPAÑA",Energy_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/EURSP.png" group-title="11- ESPAÑA",Eurosport 1 (3)
+http://158.69.127.36:25461/bron/bron/202223
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/EURSP.png" group-title="11- ESPAÑA",Eurosport 1 (4)
+http://158.69.127.36:25461/medina/medina/202223
+
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/EURS2.png" group-title="11- ESPAÑA",Eurosport 2_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/FDF-en-directo-online.png" group-title="11- ESPAÑA",Fdf (3)
+http://158.69.127.36:25461/bron/bron/198799
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/FDF-en-directo-online.png" group-title="11- ESPAÑA",Fdf (4)
+http://158.69.127.36:25461/medina/medina/198799
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="11- ESPAÑA",Fox (3)
+http://158.69.127.36:25461/bron/bron/202204
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="11- ESPAÑA",Fox (4)
+http://158.69.127.36:25461/medina/medina/202204
+
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="11- ESPAÑA",Fox Life (3)
+http://158.69.127.36:25461/bron/bron/202205
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="11- ESPAÑA",Fox Life (4)
+http://158.69.127.36:25461/medina/medina/202205
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/o/l/xgol.jpg.pagespeed.ic.ehJ8f13U62.jpg" group-title="11- ESPAÑA",Gol Tv (3)
+http://158.69.127.36:25461/bron/bron/15415
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/o/l/xgol.jpg.pagespeed.ic.ehJ8f13U62.jpg" group-title="11- ESPAÑA",Gol Tv (4)
+http://158.69.127.36:25461/medina/medina/15415
+
+#EXTINF:-1 tvg-logo="https://espalhafactos.com/wp-content/uploads/2013/05/Canal-Hist%C3%B3ria.png" group-title="11- ESPAÑA",Historia_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/HOLHD.png" group-title="11- ESPAÑA",Hollywood (3)
+http://158.69.127.36:25461/bron/bron/202197
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/HOLHD.png" group-title="11- ESPAÑA",Hollywood (4)
+http://158.69.127.36:25461/medina/medina/202197
+
+#EXTINF:-1 tvg-logo="https://tvalcolea.com/wp-content/uploads/2018/03/iberalia.jpg" group-title="11- ESPAÑA",Iberalia_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="http://telecalasparra.com/wp-content/uploads/2016/09/1.La_1.png" group-title="11- ESPAÑA",La 1_OFF_
+
+
+#EXTINF:-1 tvg-logo="https://www.siguenza-guadalajara.org/images/noticias/2019/septiembre/la-2.png" group-title="11- ESPAÑA",La 2 (3)
+http://158.69.127.36:25461/bron/bron/10275
+#EXTINF:-1 tvg-logo="https://www.siguenza-guadalajara.org/images/noticias/2019/septiembre/la-2.png" group-title="11- ESPAÑA",La 2 (4)
+http://158.69.127.36:25461/medina/medina/10275
+
+#EXTINF:-1 tvg-logo="https://cdn.domestika.org/c_fill,dpr_1.0,f_auto,h_1200,q_auto,w_1200/v1505164439/project-covers/000/353/863/353863-original.jpg?1505164439" group-title="11- ESPAÑA",LaLiga TV (3)
+http://158.69.127.36:25461/bron/bron/121900
+#EXTINF:-1 tvg-logo="https://cdn.domestika.org/c_fill,dpr_1.0,f_auto,h_1200,q_auto,w_1200/v1505164439/project-covers/000/353/863/353863-original.jpg?1505164439" group-title="11- ESPAÑA",LaLiga TV (4)
+http://158.69.127.36:25461/medina/medina/121900
+
+#EXTINF:-1 tvg-logo="https://www.cienciaterapia.org/wp-content/uploads/2016/04/sexta.png" group-title="11- ESPAÑA",La Sexta_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/818729431141404672/kSfmbaKL_400x400.jpg" group-title="11- ESPAÑA",Lebrija TV⁻ˢᵈ⁻
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://jonvlogs21.es/wp-content/uploads/2019/03/720x540.jpg" group-title="11- ESPAÑA",Mega_OFF_
+
+
+#EXTINF:-1 tvg-logo="https://logonoid.com/images/mezzo-tv-logo.png" group-title="11- ESPAÑA",Mezzo_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.S9amYApSMG.jpg" group-title="11- ESPAÑA",M. Accion (3)
+http://158.69.127.36:25461/bron/bron/202192
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.S9amYApSMG.jpg" group-title="11- ESPAÑA",M. Accion (4)
+http://158.69.127.36:25461/medina/medina/202192
+
+#EXTINF:-1 tvg-logo="https://picon.space/movistarcineespagnol.png" group-title="11- ESPAÑA",M. Cine Ñ (3)
+http://158.69.127.36:25461/bron/bron/202196
+#EXTINF:-1 tvg-logo="https://picon.space/movistarcineespagnol.png" group-title="11- ESPAÑA",M. Cine Ñ (4)
+http://158.69.127.36:25461/medina/medina/202196
+
+#EXTINF:-1 tvg-logo="http://51.68.70.69/picons/M.CineDoc&Roll_HD.png" group-title="11- ESPAÑA",M. Cinedoc&roll (3)
+http://158.69.127.36:25461/bron/bron/202195
+#EXTINF:-1 tvg-logo="http://51.68.70.69/picons/M.CineDoc&Roll_HD.png" group-title="11- ESPAÑA",M. Cinedoc&roll (4)
+http://158.69.127.36:25461/medina/medina/202195
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.deMbrDoiNj.jpg" group-title="11- ESPAÑA",M. Comedia_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://copaamericacentenario.com/wp-content/uploads/2018/03/movistar-deportes.png" group-title="11- ESPAÑA",M. Deportes (3)
+http://158.69.127.36:25461/bron/bron/202230
+#EXTINF:-1 tvg-logo="https://copaamericacentenario.com/wp-content/uploads/2018/03/movistar-deportes.png" group-title="11- ESPAÑA",M. Deportes (4)
+http://158.69.127.36:25461/medina/medina/202230
+
+#EXTINF:-1 tvg-logo="https://copaamericacentenario.com/wp-content/uploads/2018/03/movistar-deportes.png" group-title="11- ESPAÑA",M. Deportes 2_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/472-4726704_movistar-disney-logo-de-canal-movistar-disney.png" group-title="11- ESPAÑA",M. Disney_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.2pLss6-3MZ.jpg" group-title="11- ESPAÑA",M. Drama (3)
+http://158.69.127.36:25461/bron/bron/202194
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.2pLss6-3MZ.jpg" group-title="11- ESPAÑA",M. Drama (4)
+http://158.69.127.36:25461/medina/medina/202194
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-estrenos.jpg.pagespeed.ic.0N8z3R8Y9H.jpg" group-title="11- ESPAÑA",M. Estrenos (3)
+http://158.69.127.36:25461/bron/bron/202190
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-estrenos.jpg.pagespeed.ic.0N8z3R8Y9H.jpg" group-title="11- ESPAÑA",M. Estrenos (4)
+http://158.69.127.36:25461/medina/medina/202190
+
+#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/3c/1355324.png" group-title="11- ESPAÑA",M. Formula 1 (3)
+http://158.69.127.36:25461/bron/bron/121904
+#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/3c/1355324.png" group-title="11- ESPAÑA",M. Formula 1 (4)
+http://158.69.127.36:25461/medina/medina/121904
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-golf.jpg.pagespeed.ic.lKGt5sk6A_.jpg" group-title="11- ESPAÑA",M. Golf (3)
+http://158.69.127.36:25461/bron/bron/202232
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-golf.jpg.pagespeed.ic.lKGt5sk6A_.jpg" group-title="11- ESPAÑA",M. Golf (4)
+http://158.69.127.36:25461/medina/medina/202232
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads/2019/07/movistar-laliga-logo.jpg" group-title="11- ESPAÑA",M. La Liga (3)
+http://158.69.127.36:25461/bron/bron/202226
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads/2019/07/movistar-laliga-logo.jpg" group-title="11- ESPAÑA",M. La Liga (4)
+http://158.69.127.36:25461/medina/medina/202226
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="11- ESPAÑA",M. Liga de Campeones_OFF_
+
+
+#EXTINF:-1 tvg-logo="https://www.airnetwifi.es/wp-content/uploads/2019/03/Logo-Movistar-Series.png" group-title="11- ESPAÑA",M. Series (3)
+http://158.69.127.36:25461/bron/bron/202206
+#EXTINF:-1 tvg-logo="https://www.airnetwifi.es/wp-content/uploads/2019/03/Logo-Movistar-Series.png" group-title="11- ESPAÑA",M. Series (4)
+http://158.69.127.36:25461/medina/medina/202206
+
+#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/1934305/Mask-Group-8@2x.png" group-title="11- ESPAÑA",M. Seriesmania (3)
+http://158.69.127.36:25461/bron/bron/202207
+#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/1934305/Mask-Group-8@2x.png" group-title="11- ESPAÑA",M. Seriesmania (4)
+http://158.69.127.36:25461/medina/medina/202207
+
+#EXTINF:-1 tvg-logo="http://cibercom.es/wp-content/uploads/2014/01/mtv_logo.jpg" group-title="11- ESPAÑA",MTV España_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="11- ESPAÑA",Nat Geo (3)
+http://158.69.127.36:25461/bron/bron/202215
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="11- ESPAÑA",Nat Geo (4)
+http://158.69.127.36:25461/medina/medina/202215
+
+#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="11- ESPAÑA",Nat Geo Wild (3)
+http://158.69.127.36:25461/bron/bron/202214
+#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="11- ESPAÑA",Nat Geo Wild (4)
+http://158.69.127.36:25461/medina/medina/202214
+
+#EXTINF:-1 tvg-logo="https://labutacaroja.com/wp-content/uploads/2019/01/neox-en-directo-online.png" group-title="11- ESPAÑA",Neox (3)
+http://158.69.127.36:25461/bron/bron/36708
+#EXTINF:-1 tvg-logo="https://labutacaroja.com/wp-content/uploads/2019/01/neox-en-directo-online.png" group-title="11- ESPAÑA",Neox (4)
+http://158.69.127.36:25461/medina/medina/36708
+
+#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="11- ESPAÑA",Nickelodeon (3)
+http://158.69.127.36:25461/bron/bron/202221
+#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="11- ESPAÑA",Nickelodeon (4)
+http://158.69.127.36:25461/medina/medina/202221
+
+#EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="11- ESPAÑA",Nick Junior (3)
+http://158.69.127.36:25461/bron/bron/202220
+#EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="11- ESPAÑA",Nick Junior (4)
+http://158.69.127.36:25461/medina/medina/202220
+
+#EXTINF:-1 tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/a3-nova.jpg" group-title="11- ESPAÑA",Nova_OFF_
+
+
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/55600/55629/1_d8fe9d8dd9.jpg" group-title="11- ESPAÑA",Odisea (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/54285
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/55600/55629/1_d8fe9d8dd9.jpg" group-title="11- ESPAÑA",Odisea (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/15653
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="11- ESPAÑA",Paramount Network_OFF_
+
+
+#EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/radio-televisi%C3%B3n-ceuta-en-directo.png" group-title="11- ESPAÑA",RTVCE⁻ˢᵈ⁻
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2011/09/c0552-sundancetv-la.png" group-title="11- ESPAÑA",Sundance_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="11- ESPAÑA",Syfy_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0016_Layer%2034.jpg" group-title="11- ESPAÑA",TCM (3)
+http://158.69.127.36:25461/bron/bron/202200
+#EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0016_Layer%2034.jpg" group-title="11- ESPAÑA",TCM (4)
+http://158.69.127.36:25461/medina/medina/202200
+
+#EXTINF:-1 tvg-logo="http://www.cienciaterapia.org/wp-content/uploads/2016/09/telecinco-logotipo.png" group-title="11- ESPAÑA",Telecinco⁻ˢᵈ⁻
+http://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo="http://www.cienciaterapia.org/wp-content/uploads/2016/09/telecinco-logotipo.png" group-title="11- ESPAÑA",Telecinco⁻ˢᵈ⁻
+http://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_3.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://img.irtve.es/imagenes/jpg/1331827196060.jpg" group-title="11- ESPAÑA",Teledeporte_OFF_
+
+
+#EXTINF:-1 tvg-logo="https://www.grupoinfoshop.com/wp-content/uploads/ten.png" group-title="11- ESPAÑA",Ten Crime (3)
+http://158.69.127.36:25461/bron/bron/202211
+#EXTINF:-1 tvg-logo="https://www.grupoinfoshop.com/wp-content/uploads/ten.png" group-title="11- ESPAÑA",Ten Crime (4)
+http://158.69.127.36:25461/medina/medina/202211
+
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="11- ESPAÑA",TNT (3)
+http://158.69.127.36:25461/bron/bron/202198
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="11- ESPAÑA",TNT (4)
+http://158.69.127.36:25461/medina/medina/202198
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/o/r/xtorostv.jpg.pagespeed.ic.My5CoATug6.jpg" group-title="11- ESPAÑA",Toros_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="http://www.videoluctv.net/wp-content/uploads/2016/09/TVG.jpg" group-title="11- ESPAÑA",TV Galicia⁻ˢᵈ⁻
+http://europa-crtvg.flumotion.com/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/viajar.PNG" group-title="11- ESPAÑA",Viajar (3)
+http://158.69.127.36:25461/bron/bron/202216
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/viajar.PNG" group-title="11- ESPAÑA",Viajar (4)
+http://158.69.127.36:25461/medina/medina/202216
+
+#EXTINF:-1 tvg-logo="https://canalxtrm.es/wp-content/uploads/2017/12/xtrm-logo-1.png" group-title="11- ESPAÑA",Xtrm_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
