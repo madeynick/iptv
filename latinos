@@ -1,834 +1,440 @@
-#EXTM3U
-
-#EXTINF:-2 tvg-logo="https://fotos.subefotos.com/ca255fe4e6597fd3364aa520d57cf6d1o.png", Colombia CANAL CAPITAL 
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:-10 tvg-logo="https://i.imgur.com/4kxdGZo.png" group-title="COLOMBIA",CO: Colombia TELEPACIFICO
-https://cdn.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
-#EXTINF: -12 tvg-logo = "https://i.imgur.com/HZxwCAh.png" group-title = "COLOMBIA", Colombia Telecaribe 
-http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
-#EXTINF:-13 tvg-logo="https://fotos.subefotos.com/12948a7410568aa687a471e84d529c27o.png", Colombia CANAL TR3CE
-https://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/chunklist_b4500000.m3u8
-#EXTINF: -14 tvg-logo = "https://i.imgur.com/StkPNjx.png" group-title = "COLOMBIA", Colombia Canal 14
-http://181.143.238.252/live/livestream/index.m3u8
-#EXTINF: -15 tvg-logo = "https://i.imgur.com/PJFFPAL.png" group-title = "COLOMBIA", Colombia Cali TV
-http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-24 tvg-logo="https://fotos.subefotos.com/af5a003e68af2be7f5b25140848052b2o.png", Colombia TELEENVIGADO
-http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
-#EXTINF:-28 tvg-logo = "https://i.imgur.com/4pibrCO.jpg" group-title = "COLOMBIA", Colombia Red  
-http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
-#EXTINF:-43 tvg-logo="http://devocionalescristianos.org/wp-content/uploads/2008/10/enlace-juvenil.jpg", Colombia Enlace Juvenil
-http://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
-#EXTINF:-48 tvg-logo="https://fotos.subefotos.com/97c2fb36d132065c851d40f8d9bb1c3fo.png", Colombia CANAL 4 UAO Cali
-http://streaming-ca.enetres.net/184784E1D210401F8041E3E1266822CC021/smil:live.smil/chunklist.m3u8
-#EXTINF:-73 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", Peru Tv
-https://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-74 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Lda3xv_LpuM/hqdefault.jpg" group-title="PERU", Peru Antares TV 
-http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-75 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/yBX7ApyGx3c/hqdefault.jpg" group-title="PERU", Peru BHtv 
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-77 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1b/RBC_Television_%28Variante%29.jpg" group-title="PERU", Peru RBC TV 
-http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
-#EXTINF:-78 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/500px-Sol_tv_pe.png" group-title="PERU", Peru Sol TV 
-http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
-#EXTINF:-1,TV COSMOS PERU
-http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w911600877.m3u8
-#EXTINF:-84 tvg-logo="http://i.imgur.com/Xwbpj7i.jpg" group-title="Canales Peruanos", Ovacion
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-85 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU", Peru Central TV
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:- 1 , Peru RVC TV
-http://184.154.28.210:1935/rbc-tv/rbc-tv/chunklist_w1138746523.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="Latinos", Ecuador Teleamazonas
-http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/110247/logo_television%20nacional%20de%20ecuador2.png", Ecuador TVN
-http://181.198.10.23:1935/live2/smil:teradek.smil/chunklist_w151492058_b1024000_sleng.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/200px-Oromar_logo.png", Ecuador Oromar TV
-http://europa.tucableip.com:8181/oromarhd/live/tracks-v1a1/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/univisate.com/wp-content/uploads/2016/07/rts.jpg?ssl=1", Ecuador canal 1
-http://173.212.247.99/hls/tvec1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Y9BkR86cEgMjBCHqPjBXdW7D_Lw5hmw5nkURoCh6bLqjAiD57JnmqwGS6FfVQNiytWk=h310" group-title="ECUADOR", Ecuador Centro
-http://unsecure.streann.com/loadbalancer/services/public/channels/57cef28b2cdc6843385b86ce/playlist.m3u8
-
-
-#EXTINF:0,ECUADOR:UCSG
-http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-leq2ZxhLvhc/AAAAAAAAAAI/AAAAAAAAAAA/lgA8SP2JZH4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Ecuador", Ecuador TV
-https://playback.akamaized.net/streams/27236040_8177619_lsiv25fjh6pdq26txja_1/media/27236040_8177619_lsiv25fjh6pdq26txja_1@678000p.m3u8?dw=14400&ts=1539903600&hdnts=exp=1540079604~acl=/streams/27236040_8177619_lsiv25fjh6pdq26txja_1/media*~hmac=e90010ca7cc767041c1edef4ac9448d33f8996d830613cc89579d80dc03a2880
-
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png" group-title="ECUADOR", ECUAVISA HD
-http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="8YPXrcX.png" group-title="Canales Ecuatorianos", Hechos | SD
-http://37.187.7.106/hechostv/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/adIFsFw.png" group-title="COSTA RICA", Costa rica Teleuno
-http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="R8Pxx5Y.png" group-title="Canales Costarricenses", Costa rica Canal 2 Repretel 
-http://d2f1bbn9v49he.cloudfront.net/cr/canal2/v2.smil/chunklist_b298304_sles.m3u8
-
-
-#EXTINF:-1  tvg-logo="R8Pxx5Y.png" group-title="Canales Costarricenses", Costa rica Canal 4 
-http://d19a4fd3xmc403.cloudfront.net/cr/canal4/smil:v2.smil/playlist.m3u8|User-agent=iPhone
-
-
-#EXTINF: -1 tvg-logo = "http://www.transdatelecom.com/images/logos/super5_pqno.png", Costa rica SUPER 5 TV HD
-http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
-
-
-#EXTINF:-1 tvg-logo="R8Pxx5Y.png" group-title="Canales Costarricenses", Costa rica Canal 6 Repretel 
-http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8|User-agent=iPhone
-
-
-#EXTINF:-1 tvg-logo="R8Pxx5Y.png" group-title="Canales Costarricenses", Costa rica Canal 11 Repretel
-http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8|User-agent=iPhone
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_con_sombra.png", Costa rica Canal UCR
-http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-sys_DFyLpPk/AAAAAAAAAAI/AAAAAAAAAAA/QlRMSmx4a-s/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Costa ricaTelered 
-http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipMGTBsQ400Z5umh5mnA8tpCCR3JIOC9cSKhfXoM=s1600-w400", Costa rica TV Sur
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zkfw06k.jpg" group-title="COSTA RICA", Costa rica Ticavision 
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.TreceCostaRica-2017-rec.png.99fe1e4051e277516b6dd4112cfdae70.png", Costa rica Trece
-https://livestream.com/accounts/1532727/events/8158158/player?autoPlay=true
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YqW3o4z.png" group-title="COSTA RICA", Costa rica TV Sur
-http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
-
-
-#EXTINF:0,Costa Rica canal + qn
-https://stream-01.nyc.dailymotion.com/48/dm/3/x29e3wg/live-2.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Extra_TV_42.svg/2000px-Logo_Extra_TV_42.svg.png", Costa rica Extra TV 42
-http://k3.usastreams.com:1935/canal42/canal42/live.m3u8
-
-
-#EXTINF:-1 ,COSTA RICA Guapiles tv 
-http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://doutico.com/wpimages/wp284c9e60_06.png", COSTA RICA CANAL NICOYA TV
-http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist_w507599245.m3u8
- 
-
-#EXTINF:-1 tvg-logo="http://www.perezzeledon.net/wp-content/uploads/8811.gif", COSTA RICA CANAL 88 STEREO COSTA 
-http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
- 
-
-
-
-
-
-#EXTINF:0 type="stream" channelId="-1", canal 10 salvador
-http://198.24.135.42/canal10/smil:canal10.smil/chunklist_w1431583905_b796000_sles.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1", WOWI Tv San Salvador
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/tves-Canal-10.png", El Salvador TVES Canal 10
-http://198.24.135.42/canal10/canal10/playlist.m3u8
- 
-
-#EXTINF:-14,Salvador  Tv es
-http://streamingcws20.com:1935/tves/videotves/chunklist_w1623118016.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-v_zuEnAktrI/AAAAAAAAAAI/AAAAAAAAAAA/0wAplfobdeY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", El salvador Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-
-
-#EXTINF:-1,Salvador  Canal 8
-http://vox.dominiocreativo.com/9894/9894/playlist.m3u8?wowzasessionid=679955250
-
-
-#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-11-sv.png", El Salvador canal 11
-http://198.24.135.42:80/canal11/canal11/playlist.m3u8
-
-
-#EXTINF:-1, El Salvador CANAL 21 MEGAVICIÓN 
-http://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/index_1000_av-p.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1, tvg-logo="roPEr6G.png" group-title="Canales Salvadoreños", El Salvador TVX 
-https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/5_el_lider_honduras.png", Honduras Canal 5 El Lider
-https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-48Uexo74A_k/VGk9g8fWluI/AAAAAAABtfM/uw0GdkZgsHo/s1600/Azteca%2BHonduras.jpg" group-title="Honduras", Honduras Azteca                                    
-http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/TeleceibaCanal7.png", Honduras Teleceiba Canal 7
-http://190.11.224.14:8134/liveevent.m3u8
-
-
-#EXTINF:-1,Honduras canal UNE hd 
-http://190.92.22.44/UNE-TV/video.m3u8?token=lAdXcoRJh2
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-4_4lQS5_e0g/VmfAAPjGsgI/AAAAAAAAAjY/QCMhrAcZUYE/s1600/TEN.jpg", Honduras TEN Canal 10                      
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1502819220_b1848000.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TSi_Honduras.png", Honduras TSi
-https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/index_400_av-p.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-4_4lQS5_e0g/VmfAAPjGsgI/AAAAAAAAAjY/QCMhrAcZUYE/s1600/TEN.jpg", Hondoras TEN Canal 10                
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/HCH_Turkey.jpg", Honduras HCH Digital
-http://stream.innovandote.com/hch/hch/chunklist_w914191267.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2uxwiu9.png", Honduras Canal 6
-https://ssh101.com/m3u8/dyn/canal6envivo/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://live.campushd.tv/wp-content/uploads/2017/04/CAMPUS-LOG.png", Honduras Campus tv
-http://st2.worldkast.com/8004/8004/chunklist_w587735158.m3u
-
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/5_el_lider_honduras.png", Honduras Canal 5 El Lider
-https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/991175983972659200/UrrlSpLp_400x400.jpg" group-title="HONDURAS", Honduras TELECADENA 
-http://162.212.178.134:1935/telecadena/telecadena/index.m3u8
-
-
-EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Canal_5_Honduras.png/revision/latest?cb=20180502195430" group-title="HONDURAS", Honduras Canal 5                        
-https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
-
-
-XTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/canal-11-honduras.png?fit=800%2C500" group-title="HONDURAS", Honduras CANAL 11                
-http://162.212.178.134:1935/campustv/campustv/index.m3u8
- 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4DnJoiR.png" group-title="HONDURAS", Homduras Todo Deportes tv
-http://rtmp.zafra.cloud:1935/securelive/tdcampeones20161/playlist.m3u8
- 
-
-#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/CholusatSurCanal36.png" group-title="HONDURAS", Honduras CHOLUSAT 
-http://live.audiotvserver.com:1935/livemedia/cholusat/playlist.m3u8
- 
-
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/hn_si-tv_m.png" group-title="HONDURAS", Honduras Si TV
-http://st2.worldkast.com/8030/8030/Sitv-Honduras.m3u8
-
- 
-#EXTINF:-1 tvg-logo="http://unetv.hn/wp-content/uploads/2017/01/une-logo-.jpg" group-title="HONDURAS", Honduras UNE TV
-http://190.92.22.44:8080/UNE-TV/video.m3u8?token=lAdXcoRJh2
- 
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfGRniDsHkP8V0Q55uSLUjNHh4h-coBtHS9Pfg=s900-mo-c-c0xffffffff-rj-k-no" group-title="HONDURAS", Honduras EBENEZER HD                                   
-http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
- 
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/f3JMNQ5VkadQ9RKEAfor0GqT215e5bN6HEi8Zzf5bvKbrP_PMZ0b2IgYjX0tJDCofAgc=s180" group-title="HONDURAS", Honduras VICTORY CHANNEL                      
-http://hls1.livestreamingcdn.com/livecdn780/myStream.sdp/playlist.m3u8
- 
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/VTV_Honduras.png/revision/latest?cb=20180330165955" group-title="HONDURAS",VTV HONDURAS
-http://162.212.178.134:1935/vicatv/vicatv/index.m3u8
- 
-
-#EXTINF:-1 tvg-logo="http://tnh.gob.hn/wp-content/uploads/2017/08/cropped-frente0200.png" group-title="HONDURAS",TNH 8 HONDURAS
-http://hondurtmp.tulix.tv:1935/tnhtv/tnhtv/index.m3u8
- 
-
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio42673_1485262352.jpg" group-title="HONDURAS", TELEDANLI CANAL 9
-http://4.31.30.140:1935/live/canal9/playlist.m3u8
- 
-
-#EXTINF:-1 tvg-logo="http://hondu.tv/wp-content/uploads/2016/12/Canal-Sercano.jpeg" group-title="HONDURAS", SERCANO TV
-http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w677998969_b1848000.m3u8
- 
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.ccichannel.tv/wp-content/uploads/2018/01/CCILogo-01.png?fit=300%2C300" group-title="HONDURAS", Honduras CCI CHANNEL                                 
-http://stream.innovandote.com:1935/cci/cci/chunklist_w2019781312.m3u8
- 
-
-#EXTINF:-1 tvg-logo="http://www.geproca.org/images/fotos/suyapa.jpg" group-title="HONDURAS",SUYAPA TV HONDURAS
-http://173.236.71.62:1935/canal48/c48.sdp/playlist.m3u8
-
- 
-#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/DTV.jpg" group-title="HONDURAS",DTV HONDURAS
-http://hondurtmp.tulix.tv:1935/dtelevision/dtelevision/index.m3u8
- 
-
-#EXTINF:-1 tvg-logo="http://www.globotvhonduras.com/GLOBO%20TV.png" group-title="HONDURAS",GLOBO TV
-http://tv.aliasdns.info:8979/live/g13/playlist.m3u8
- 
-
-#EXTINF:-1 tvg-logo="http://www.cvshonduras.com/wp-content/uploads/2017/11/log1.png" group-title="HONDURAS",CVS  HONDURAS
-http://162.212.178.134:1935/canal12/canal12/index.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://elpoderdelespiritu.com/channels/canal2nicaragua.png", Nicaragua Canal 2
-http://162.244.81.181:1935/live//Stream1/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.ecotvpanama.com/site/templates/images/cos-generic.jpg" group-title="Panama", Panama Eco TV
-http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-480p/chunks.m3u8
-
-
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/NooNOzk.png" group-title = "DEPORTES", Panama COS
-http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
-
-
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/TBrfn8e.png" group-title = "PANAMA", Panama OyeTV
-http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/playlist.m3u8
-
-
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/ie2kn0m.png" group-title = "PANAMA", Panama Telemetro
-http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
-
-
-#EXTINF:0,Panama TVN
-https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/342e43a0bc384c2f8f81652fa15f3949.m3u8?oosm=1
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png", Panama NexTV
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVN_HD_Chile.png" group-title="Latinos", TVN Panama
-http://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP", Republica Dominicana Telenord 8
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0028&mode=12
-
-
-#EXTINF:-1 tvg-logo="wfQwBfQ.png" group-title="Canales Dominicanos", Luna TV | SD
-http://ss1.domint.net:2140/luna_str/lunatv/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="1B00BNn.jpg" group-title="Canales Dominicanos", Naranja TV | SD
-http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
-
-
-#EXTINF:0 ,Republica Dominicana  Teleuniverso Canal 29
-http://ss1.domint.net:2302/tu_str/universo/chunklist_w926834618.m3u8
-
-
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/15m94TV.jpg" group-title = "REP DOMINICANA", Republica Dominicana Color Vision Canal 9 
-http://ss2.domint.net:2138/cvh_str/colorvisionhd/chunklist.m3u8
-
-
-#EXTINF:0,Republica Dominicana  Peravia Vision Canal 8 
-http://ss6.domint.net:2002/pvv_str/peravia/playlist.m3u8
-
-
-#EXTINF:0,Republica Dominicana  Xtremo Channel 
-http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
-
-
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/dCPCYQB.png" group-title = "REP DOMINICANA", Republica Dominicana  Telesistema HD 
-http://ss2.domint.net:2114/t11_str/telesistema/chunklist_w628974031.m3u8
-
-
-#EXTINF:0,Republica Dominicana  Teleantillas HD 
-http://ss1.domint.net:2126/ta2_str/teleantillas/chunklist_w299223340.m3u8
-
-
-#EXTINF:-1  tvg-logo="adjlUbK.jpg" group-title="Canales Dominicanos", Microvision | SD
-http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
-
-
-#EXTINF:0,Republica Dominicana   Digital 15
-https://playback.akamaized.net/streams/27456795_8268514_lsi63gakkq6gr6nrnj2_1/media/27456795_8268514_lsi63gakkq6gr6nrnj2_1@596000p.m3u8?dw=14400&ts=1539986400&hdnts=exp=1540160483~acl=/streams/27456795_8268514_lsi63gakkq6gr6nrnj2_1/media*~hmac=aedaa8bd69287af76464ba9882c780705a959a5c1db562d2553473a935b6346e
-
-
-#EXTINF:0,Republica Dominicana  Canal Musavicion 10 
-https://wowzaprod105-i.akamaihd.net/hls/live/582264/f84f4e5e_1_2728/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2LqKWLS.png" group-title="DOMINICAN REP", Republica DominicanaTelemicro 5 
-http://stream.grupotelemicro.com/5.m3u8
-
-
-#EXTINF:0,Republica Dominicana  Romana TV 42
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0034&mode=12
-
-
-#EXTINF:0,Republica Dominicana TRA Digital 
-http://qs1.distream.net:2116/t45_str/canal45/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP", Republica Dominicana  telenord 8
-http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/chunklist_w588013183.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP", Republica Dominicana  Telenord Canal 10
-http://newyorkstreamss2.ddns.net:28987/telenord10/telenord10/chunklist_w1302250080.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP", Republica Dominicana  telenord 12
-http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/chunklist_w602884123.m3u8
-
-
-#EXTINF:0,Republica Dominicana  Telenord Canal 14 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12 
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/FWTfazT.png" group-title = "LATINOS", PUERTO RICO  TELEMUNDO
-http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8?xtreamiptv.m3u8
-
-
-#EXTINF:0,PUERTO RICO  WORO-TV Teleoro Canal 13 
-http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-TV9bFojvv3w/V1YUoSQ6aHI/AAAAAAAA0xk/fgz13awlu1Ull6Ad3qPVDYNp1gRHZYCkACLcB/s1600/WIPR%2BTV.PNG" group-title="Latinos", WIPR
-https://wowzaprod100-i.akamaihd.net/hls/live/254872/e164401e_1_2728/chunklist.m3u8
-
-
-#EXTINF:-1, tvg-logo="uZQ7BJU.png" group-title="Canales Puertorriqueños", Teleuniverso | HD
-http://ss1.domint.net:2302/tu_str/universo/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-TV9bFojvv3w/V1YUoSQ6aHI/AAAAAAAA0xk/fgz13awlu1Ull6Ad3qPVDYNp1gRHZYCkACLcB/s1600/WIPR%2BTV.PNG" group-title="Latinos", WIPR
-https://livestream-f.akamaihd.net/i/16550960_8077197_45145550_1@30481/index_2628_av-p.m3u8?sd=4&dw=14400&set-segment-duration=responsive&rebase=on&hdntl=exp=1545864016~acl=%2fi%2f16550960_8077197_45145550_1%4030481%2f*~data=hdntl~hmac=8db496184380ea8292027b3e77d6cc776978c835572f663c38d4af080a4d1fa0
-
-
-
-
-#EXTINF:-1, Mexico Unicable
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL66/PROFILE05.m3u8
-
-
-#EXTINF:-1, Mexico Canal 5
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL55/PROFILE05.m3u8
-
-
-#EXTINF:-1, Mexico TELEVER
-http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
-
-
-#EXTINF: -1 tvg-logo = "http://www.onlinetv.planetfools.com/imagenes/canal-de-las-estrellas-en-vivo.jpg", Mexico Las Estrellas
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-
-
-#EXTINF: -1 tvg-logo = "http://www.onlinetv.planetfools.com/imagenes/azteca-7.png", Mexico Azteca 7 HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL7/PROFILE05.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1", Mexico Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1790447454_b1300000_slesp.m3u8
-
-
-#EXTINF: -1 tvg-logo = "http://forounivers.com/uploads/monthly_2017_10/large.59f01991ea5b2_AztecaUno.png.7af86b58cd5ac04059264491a40068e9.png", Mexico Azteca Uno HD 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL23/PROFILE05.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/vzTZCxv.png", Mexico ADN 40 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL40/PROFILE05.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/SY3a9yU.png", Mexico Azteca Mas 
-https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_1_av-p.m3u8?sd=10&rebase=on
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.c7jalisco.com/sites/default/files/logo%20web.jpg", C7 Jalisco Mexico
-http://streamingcws10.com:1935/c7noticias/videoc7noticias/chunklist_w48198864_DVR.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/RcHaKDY.png", Canal 10 Cancun Mexico
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
-
-#EXTINF:0 type="stream" channelId="328" tvg-name="Foro TV" tvg-logo="https://i.imgur.com/xomvDm7.png", FOROtv  Mexico
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/vYoOv48.png", Mexiquense Toluca Mexico
-http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-name="Milenio TV" tvg-logo="https://i.imgur.com/qcJ5lk3.png", Milenio TVexico
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://imgur.com/ajBGBm5.png", Multimedios Monterrey Mexico
-http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/dJn881g.png", Noticias MVS Mexico
-http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/EUkatRJ.png", OchoTV Guadalajara Mexico
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/1iWzKQH.png", Puebla TV Mexico
-http://189.203.247.136/live/pueblatv/playlist.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/hzJu6QT.png", RCG 1 Saltillo Mexico
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/hzJu6QT.png", RCG 2 Saltillo Mexico
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/hzJu6QT.png", RCG 3 Saltillo Mexico
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/Bfbjgfo.png", RTG Guerrero Mexico
-http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/H1AFRJh.png", RTQ Queretaro Mexico
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/3orwGcy.png", Telemar Campeche Mexico
-http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/aizYxAy.png", TV UNAM Mexico
-http://api.new.livestream.com/accounts/12380647/events/3843134/live.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/AfSXooZ.png", TvAcapulco Mexico
-http://stream.duplika.com:1935/tvacapulco/tvacapulco/playlist.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/0HnNJKm.png", TVMAS Veracruz Mexico
-http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0,DEPORTES CDO
-http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
-
-
-#EXTINF:0,DEPORTES REAL MADRID TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
-
-
-#EXTINF:0,DEPORTES SEVILLA FC
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
-
-
-#EXTINF:0,DEPORTES DeporTV
-http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
-
-
-#EXTINF:0,DEPORTES garage tv
-http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
-
-
-#EXTINF:0,DEPORTES CDO
-https://pbs.twimg.com/profile_images/734190291620667392/hxLk95y3_400x400.jpg" group-title="CHILE",DEPORTES CDO
-
-
-#EXTINF:0,DEPORTES COS FC
-http://video.cableondasports.com/site/assets/files/25027/cos-fc-cableondasports.226x90.jpg" group-title="PANAMA",DEPORTES COS FC
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", Latin hats
-https://cdn01.yowi.tv/RABDUNMFW5/live-1000.m3u8
-
-
-#EXTINF: -1 , Colombia TV UNE
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/UNEM/tu1_1.m3u8
-
-
-#EXTINF: -2 tvg-logo = "https://i.imgur.com/uwee0UJ.png" group-title = "MUSICA", MUSICA Quiero
-https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w1601856187.m3u8
-
-
-#EXTINF: -3 tvg-logo = "https://i.imgur.com/40X9iTy.png" group-title = "COLOMBIA", Mi Gente
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MGEN/tu1_1.m3u8
-
-
-#EXTINF: -4 tvg-logo = "https://i.imgur.com/VIpafvM.png" group-title = "MUSICA", California Music Channel 
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-
-
-#EXTINF: -5 tvg-logo = "http://www.canalmimusica.com/wp-content/uploads/2012/10/MIMUSICA-HD-GRANDE1.png", MiMusica
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-
-
-#EXTINF: -6 tvg-logo = "http://cdn-radiotime-logos.tunein.com/s172053q.png" group-title = "MUSICA", PortalFoxMix Tv
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
- 
- 
-#EXTINF: -7 tvg-id = "" tvg-name = "" tvg-logo = "http://portalservicios.emcali.net.co/img/canales-sd/cantinazo.jpg", Cantinazo      
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
-
-
-#EXTINF:-8 tvg-logo="http://i.imgur.com/FujAXo2.jpg" group-title="Canales Miscelaneos", Chaula TV
-http://video.chaula.tv/hls/live/high/playlist_high.m3u8
-
-
-#EXTINF: -9 tvg-logo = "https://i.imgur.com/MCGNAMK.png" group-title = "MUSICA", alternativa de elección de música 
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-
-#EXTINF: -10 tvg-logo = "http://2.bp.blogspot.com/-_A-jiGtuVp8/UW_Qs9-lOJI/AAAAAAAAAEg/NsmFv_C60B0/s1600/TOPMUSIC.gif" group-title = "MUSICA", MUSICTop
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-
-
-#EXTINF: -11 tvg-name = "Teleritmo" tvg-logo = "https://i.imgur.com/jkPslQI.png" group-title = "MUSICA", Teleritmo
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?tecnotv.info?.m3u
- 
-
-#EXTINF: -12 tvg-logo = "http://puu.sh/nB5xX/247b3cc965.png" group-title = "MUSICA", Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8?iptvgratis?chile.m3u8
- 
-
-#EXTINF:-13 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tHGr6ns.png" group-title="LATINO",Telemusica
-http://186.155.200.118:1935/live/telemusica_web/chunklist_w1461900928.m3u8
-
-
-#EXTINF: -14 tvg-logo = "http://i.imgur.com/IzHgZmg.jpg" group-title = "MUSICA", Retro Tv
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
-
-
-#EXTINF: -15 tvg-name = "TOP Latino" tvg-logo = "https://i.imgur.com/QMt8xxw.png" group-title = "MUSICA", TOP Latino
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
-
-
-#EXTINF: -16 tvg-logo = "https://i.imgur.com/0encHYl.png" group-title = "MUSICA", Tigo Musi
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?iptvgratis?chile.m3u8
- 
-
-#EXTINF: -17 tvg-name = "Radio Virgin" tvg-logo = "https://i.imgur.com/H0MgtZm.png" group-title = "MUSICA", Radio Virgin
-http://fms.105.net:1935/live/virgin1/.m3u8?iptvgratis?chile.m3u8
-
-
-#EXTINF: -18 tvg-logo = "https://i.imgur.com/LCdljln.png" group-title = "MUSICA", red de radio 105 
-http://fms.105.net:1935/live/105Test1/playlist.m3u8
- 
-
-#EXTINF: -19 tvg-logo = "https://i.imgur.com/I36VNWZ.jpg" group-title = "MUSICA", Play Channel  
-http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8?nimblesessionid=38779709
- 
-
-#EXTINF: -20 tvg-logo = "https://i.imgur.com/Gpa4LA6.png" group-title = "MUSICA", Xite
-http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
-
-
-#EXTINF: -21 tvg-logo = "https://i.imgur.com/uFbyigf.png" group-title = "MUSICA", M2O TV 
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
-
-
-#EXTINF: -22 tvg-logo = "https://i.imgur.com/5EbmHYH.png" group-title = "MUSICA", Capital TV 
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-
-
-#EXTINF:-23 tvg-logo="https://fotos.subefotos.com/337c9f4e09259a69abe54bb29484ea6eo.png",SON POPULAR (Música Colombia)
-http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
-
-
-#EXTINF:-24 tvg-logo="https://fotos.subefotos.com/e411b5b373f5d438053aa15033cc985ao.png",OXIGENO 100.4 FM BOGOTÁ (Radio Colombia)
-http://66.201.190.103/cooxibog_video/cooxibog_video.stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lh5.ggpht.com/7-Gfv3uIqfGm_gBKjVh1jVwNFz8hKZ94z2eEgVvmgwK7QSpzurYiITlqeR5PEher7A=w300" group-title="MUSICA", Dream Tv
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?iptvgratis?chile.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png", Hit TV
-http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRuZJpRHO86aAf-umPjncaNOfzFS3xjOSqUJfRJjRID1A4wvCk", VITATO TV 
-https://vaughn.live/embed/video/vitatotv?viewers=true&autoplay=true
-
-
-#EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg" group-title="CINE Y SERIES", Cine Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="CHILE", Cine FM Hot  HD
-http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
-
-
-#EXTINF:0,Cine  telenord 8
-http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/chunklist_w588013183.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://s9.tinypic.com/2mouohe_th.png",,Animax
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/origin/https://locomotiondeculto.files.wordpress.com/2015/06/locomotion-animestation2.png", Locomotion
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-
-
-#EXTINF:0, MULTIPLEMIER
-http://23.237.88.103:3105/livestream/multipremier.m3u8?token=vWrJmesp7eflj225x8RPdg&expires=1552348773
-
-#EXTINF:0,TNT  HD
-http://158.69.54.145:8000/livestream/47_.m3u8?md5=wF7GU-sA1vdPiib9qMDEdA&expires=1553738327
-
-#EXTINF:0,EDGE
-http://23.237.22.157:3105/livestream/goldenedge.m3u8?token=uiCbmBDwpgNLevMOBDWlOg&expires=1552343365
-
-
-#EXTINF:0,AMC HD
-http://23.237.22.137/livestream/amc.m3u8?token=T-6NsWxwEpjiUnPE7Yeszg&expires=1552342479
-
-
-#EXTINF:0, SPACE HD
-http://23.237.22.157:3105/livestream/space.m3u8?token=9YS69ofYMN-_HTgyfod8KQ&expires=1552348568
-
-
-#EXTINF:0,STUDIOUNIVERSAL
-http://23.237.88.103:3105/livestream/universalchannel.m3u8?token=PhCL3tSg8ZJshdx_JK6nQA&expires=1552346612
-
-
-#EXTINF:0, FOX HD
-http://23.237.88.103:3105/livestream/fox.m3u8?token=BP3OX1rjyxaggxMSf8Gvfg&expires=1552342191
-
-
-#EXTINF:0, FX HD
-http://23.237.22.137/livestream/fx.m3u8?token=3O-XkMF5Yl5Ku6gzr8eANg&expires=1552347355
-
-
-#EXTINF:0, FXM
-http://23.237.22.137/livestream/fxm.m3u8?token=Kx7bngUJHn6XFQIoNMPI2w&expires=1552348131
-
-#EXTINF:0, NC
-http://23.237.88.103:3105/livestream/cartoon.m3u8?token=bMLmadxM74kLdQO6-cyGPA&expires=1552343843
-
-
-#EXTINF: 1 , TOOMCAST
-http://23.237.22.157:3105/livestream/tooncast.m3u8?token=BoDskefh9_XwPsv7IkWssQ&expires=1552343092
-
-
-#EXTINF:0,NICK  HD
-http://23.237.22.137/livestream/nick.m3u8?token=iU9UCVqpn794rtVyzvswLw&expires=1552342820
-
-
-#EXTINF:0,DISNEY DX
-http://158.69.54.145:8000/livestream/77_.m3u8?md5=kusA-4pFp7FJRo-dj9m8qQ&expires=1553743429
-
-#EXTINF:0,DISNEY CHANNEL
-http://23.237.22.157:3105/livestream/disneychannel.m3u8?token=BYWkCQ7F1-hhflGJs9X0UA&expires=1552348305
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" group-title="Cine y series", Cine 1 Dragon ball Super
-https://storage.googleapis.com/shining-hydra-229307.appspot.com/654987234/39e1a3f9a2e88b0bfa64a8b4ef36519ebcce6d77a3196325dec6acfaf540c213-BmwRKsoZqGSTzu1pZeuR.mp4
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" group-title="Cine y series", Cine 2 Ralph 2: Rompe 
-https://1fiafzm.oloadcdn.net/dl/l/mPn8yN-wGi7TtUNG/IlAzRB_XXRU/212dbc50-1a1d-11e9-8105-21e840db65a4.mp4?mime=true
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" group-title="Cine y series", Cine 3 Deadpool 2
-https://1fizp4e.oloadcdn.net/dl/l/lXpIdfNmzdTSxIm4/SwuXwRVevb8/tt5463162_73c1af31-9c50-11e8-b270-ad5fa73bb65a.mp4?mime=true
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" group-title="Cine y series", Cine 4 AQUAMAN 2019
-https://1fiafzp.oloadcdn.net/dl/l/H-wAXVgFdPhB6Q7e/ASJvUMNPQM0/a82503c1-22d4-11e9-b365-9f2be252866a.mp4?mime=true
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" group-title="Cine y series", Cine 5 EL REY ESCORPIN EL LIBRO DE LAS ALMAS
-https://storage.googleapis.com/shining-hydra-229307.appspot.com/654987234/fc0666758eb2e61ad412e06c3c24dd3f7a8e7739f83a3e359d306e522c06b469-gfLMMguG2W0EdZNa1Ccu.mp4
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" group-title="Cine y series", Cine 6
-https://17wy10i.oloadcdn.net/dl/l/5Jia6rMfrm4tukx5/RUtkH6UzZVY/X-4881806.l4t.mp4.mp4?mime=true
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" group-title="Cine y series", Cine 7
-https://1fhjlp3.oloadcdn.net/dl/l/UWoHIzrxiiLZHN0-/BNHL9Abn-J4/tt0082971-LAT.mp4.mp4?mime=true
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" group-title="Cine y series", Cine 8
-https://1fiag16.oloadcdn.net/dl/l/RPTl58NNwdsaTg4i/KUA0n0-Pbvw/tt0087469-LAT.mp4.mp4?mime=true
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" group-title="Cine y series", Cine 9
-https://1fgm8zz.oloadcdn.net/dl/l/MDzV0Q4ulo7rPSB3/3iNNv_ePmJY/tt0097576-LAT.mp4.mp4?mime=true
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" group-title="Cine y series", Cine 10
-https://copo4.mitopo.me/live/dcine/index.m3u8?token=ZIZNspWtp5uBu5xdm8eCUw&expires=1552087093
+#EXTM3U#EXTINF:-1 tvg-id="" tvg-name="✓ (LATIN) GENERAL ✓" tvg-logo="" group-title="LATIN ✓GENERAL",✓ (LATIN) GENERAL ✓
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7858
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) CORONA VIRUS INFO" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) CORONA VIRUS INFO
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7857
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) FORO TV" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) FORO TV
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7856
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) TDN" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) TDN
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7855
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) HOLA TV" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) HOLA TV
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7854
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) CINE LATINO" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) CINE LATINO
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7853
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) LIFETIME" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) LIFETIME
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7852
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) MILENIO TV" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) MILENIO TV
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7851
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) ARTS" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) ARTS
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7850
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) 52MX" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) 52MX
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7849
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) AMERICATEVE" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) AMERICATEVE
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7848
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) GLITZ" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) GLITZ
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7847
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) TBS" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) TBS
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7846
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) TELEMUNDO INTERNACIONAL" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) TELEMUNDO INTERNACIONAL
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7845
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) UNIMAS" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) UNIMAS
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7844
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) ISAT" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) ISAT
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7843
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) PASIONES" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) PASIONES
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7842
+#EXTINF:-1 tvg-id="" tvg-name="✓ (LATIN) MOVIES ✓" tvg-logo="" group-title="LATIN ✓GENERAL",✓ (LATIN) MOVIES ✓
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7841
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) HBO" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) HBO
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7840
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) HBO 2" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) HBO 2
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7839
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) HBO PLUS" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) HBO PLUS
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7838
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) HBO FAMILY" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) HBO FAMILY
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7837
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) HBO SIGNATURE" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) HBO SIGNATURE
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7836
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) HBO ESTE" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) HBO ESTE
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7835
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) FOX PREMIUM MOVIES" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) FOX PREMIUM MOVIES
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7834
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) FOX PREMIUM CINEMA" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) FOX PREMIUM CINEMA
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7833
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) FOX PREMIUM ACTION" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) FOX PREMIUM ACTION
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7832
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) FOX PREMIUM COMEDY" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) FOX PREMIUM COMEDY
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7831
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) FOX PREMIUM FAMILY" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) FOX PREMIUM FAMILY
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7830
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) FOX PREMIUM SERIES" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) FOX PREMIUM SERIES
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7829
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) UNIVISION" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) UNIVISION
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7828
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) UNIVISION TELENOVELAS" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) UNIVISION TELENOVELAS
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7827
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) TELENOVELAS" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) TELENOVELAS
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7826
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) UNICABLE" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) UNICABLE
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7825
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) TELEMUNDO" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) TELEMUNDO
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7824
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) TLC" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) TLC
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7823
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) SYFY" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) SYFY
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7822
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) FX" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) FX
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7821
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) FOX" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) FOX
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7820
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) FOX ACTION" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) FOX ACTION
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7819
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) FOX CINEMA" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) FOX CINEMA
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7818
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) FOX CLASSIC" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) FOX CLASSIC
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7817
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) FOX LIFE" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) FOX LIFE
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7816
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) FOX MOVIES" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) FOX MOVIES
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7815
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) AMC" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) AMC
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7814
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) AXN" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) AXN
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7813
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) GALA TV" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) GALA TV
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7812
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) UNIVERSAL CHANNEL" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) UNIVERSAL CHANNEL
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7811
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) AZ UNO" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) AZ UNO
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7810
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) AZ MAS" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) AZ MAS
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7809
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) AZTECA 7" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) AZTECA 7
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7808
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) AZTECA CINEMA" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) AZTECA CINEMA
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7807
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) AZTECA CORAZON" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) AZTECA CORAZON
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7806
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) AZTECA CLIC" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) AZTECA CLIC
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7805
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) CINE CANAL" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) CINE CANAL
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7804
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) MULTIPREMIER" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) MULTIPREMIER
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7803
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) DHE" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) DHE
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7802
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) WARNER CHANNEL" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) WARNER CHANNEL
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7801
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) CLARO" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) CLARO
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7800
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) CLARO CINEMA" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) CLARO CINEMA
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7799
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) GOLDEN PREMIER" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) GOLDEN PREMIER
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7798
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) PARAMOUNT" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) PARAMOUNT
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7797
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) SONY" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) SONY
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7796
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) SPACE" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) SPACE
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7795
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) STUDIO UNIVERSAL" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) STUDIO UNIVERSAL
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7794
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) TCM" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) TCM
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7793
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) TNT SERIES" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) TNT SERIES
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7792
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) TNT" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) TNT
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7791
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) GOLDEN EDGE" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) GOLDEN EDGE
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7790
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) GOLDEN" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) GOLDEN
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7789
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) MAX UP" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) MAX UP
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7788
+#EXTINF:-1 tvg-id="" tvg-name="✓ (LATIN) ENTERTAINMENTS ✓" tvg-logo="" group-title="LATIN ✓GENERAL",✓ (LATIN) ENTERTAINMENTS ✓
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7787
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) CINEMA DINAMITA" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) CINEMA DINAMITA
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7786
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) A&E" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) A&E
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7785
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) MASCHIC" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) MASCHIC
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7784
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) DISTRITO COMEDIA" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) DISTRITO COMEDIA
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7783
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) E! ENTERTAINMENT" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) E! ENTERTAINMENT
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7782
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) TRU TV" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) TRU TV
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7781
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) GOURMET" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) GOURMET
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7780
+#EXTINF:-1 tvg-id="" tvg-name="✓ (LATIN) KIDS ✓" tvg-logo="" group-title="LATIN ✓GENERAL",✓ (LATIN) KIDS ✓
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7779
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) DISNEY CHANNEL." tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) DISNEY CHANNEL.
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7778
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) DISNEY JR" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) DISNEY JR
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7777
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) NICK JR" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) NICK JR
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7776
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) NICK 2" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) NICK 2
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7775
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) DISNEY XD" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) DISNEY XD
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7774
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) NICKELODEON" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) NICKELODEON
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7773
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) COMEDY CENTRAL" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) COMEDY CENTRAL
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7772
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) BOOMERANG" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) BOOMERANG
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7771
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) CANAL 11" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) CANAL 11
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7770
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) CANAL 5" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) CANAL 5
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7769
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) CANAL DE LAS ESTRELLAS." tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) CANAL DE LAS ESTRELLAS.
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7768
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) CARTOON NETWORK" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) CARTOON NETWORK
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7767
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) CINE MAX" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) CINE MAX
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7766
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) ONCE" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) ONCE
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7765
+#EXTINF:-1 tvg-id="" tvg-name="✓ (LATIN) DOCUMENTARY ✓" tvg-logo="" group-title="LATIN ✓GENERAL",✓ (LATIN) DOCUMENTARY ✓
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7764
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) NAT GEO" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) NAT GEO
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7763
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) NAT GEO WILD" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) NAT GEO WILD
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7762
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) DISCOVERY CHANNEL" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) DISCOVERY CHANNEL
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7761
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) DISCOVERY INVESTIGATION" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) DISCOVERY INVESTIGATION
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7760
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) DISCOVERY HOME&HEALTH" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) DISCOVERY HOME&HEALTH
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7759
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) DISCOVERY KIDS" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) DISCOVERY KIDS
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7758
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) DISCOVERY TURBO" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) DISCOVERY TURBO
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7757
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) DISCOVERY THEATER" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) DISCOVERY THEATER
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7756
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) DISCOVERY SCIENCE" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) DISCOVERY SCIENCE
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7755
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) ANIMAL PLANET" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) ANIMAL PLANET
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7754
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) HISTORY" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) HISTORY
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7753
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) ID" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) ID
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7752
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) H2" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) H2
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7751
+#EXTINF:-1 tvg-id="" tvg-name="✓ (LATIN) SPORTS ✓" tvg-logo="" group-title="LATIN ✓GENERAL",✓ (LATIN) SPORTS ✓
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7750
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) ESPN" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) ESPN
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7749
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) ESPN 2." tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) ESPN 2.
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7748
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) ESPN 3" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) ESPN 3
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7747
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) FOX SPORT" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) FOX SPORT
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7746
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) FOX SPORT 2" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) FOX SPORT 2
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7745
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) UNIVISION DEPORTES" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) UNIVISION DEPORTES
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7744
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) CLARO SPORT 2" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) CLARO SPORT 2
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7743
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) WIN SPORT HD" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) WIN SPORT HD
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7742
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) CLARO SPORT" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) CLARO SPORT
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7741
+#EXTINF:-1 tvg-id="" tvg-name="✓ (LATIN) NEWS ✓" tvg-logo="" group-title="LATIN ✓GENERAL",✓ (LATIN) NEWS ✓
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7740
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) CNN" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) CNN
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7739
+#EXTINF:-1 tvg-id="" tvg-name="✓ (LATIN) MUSIC ✓" tvg-logo="" group-title="LATIN ✓GENERAL",✓ (LATIN) MUSIC ✓
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7738
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) CLARO MUSIC" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) CLARO MUSIC
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7737
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) HTV" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) HTV
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7736
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) TUMUSICA" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) TUMUSICA
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7735
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) MTV" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) MTV
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7734
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) SUNDANCE" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) SUNDANCE
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7733
+#EXTINF:-1 tvg-id="" tvg-name="(LATIN) VH1" tvg-logo="" group-title="LATIN ✓GENERAL",(LATIN) VH1
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7732
+#EXTINF:-1 tvg-id="" tvg-name="✓ (ARGENTINA) GENERAL ✓" tvg-logo="" group-title="LATIN ✓GENERAL",✓ (ARGENTINA) GENERAL ✓
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7731
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) TV PUBLICA" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) TV PUBLICA
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7730
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) AMERICA TV" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) AMERICA TV
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7729
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) TELEFE" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) TELEFE
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7728
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) EL TRECE" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) EL TRECE
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7727
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) ELNUEVE" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) ELNUEVE
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7726
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) ENCUENTRO" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) ENCUENTRO
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7725
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) LN" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) LN
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7724
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) ARGENTINISIMA" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) ARGENTINISIMA
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7723
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) CANAL DE LA CIUDAD" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) CANAL DE LA CIUDAD
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7722
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) 13 MAX" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) 13 MAX
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7721
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) CANAL 9 SALTA" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) CANAL 9 SALTA
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7720
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) CINE AR" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) CINE AR
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7719
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) NET TV" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) NET TV
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7718
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) CRONICA" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) CRONICA
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7717
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) CANAL 4" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) CANAL 4
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7716
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) TOP LATINO TV" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) TOP LATINO TV
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7715
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) TN" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) TN
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7714
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) C5N" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) C5N
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7713
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) CANAL 26" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) CANAL 26
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7712
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) A24" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) A24
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7711
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) CN3 PIRAMAR" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) CN3 PIRAMAR
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7710
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) MUSIC TOP" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) MUSIC TOP
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7709
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) PAKAPAKA" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) PAKAPAKA
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7708
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) FOX SPORT" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) FOX SPORT
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7707
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) FOX SPORT 2" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) FOX SPORT 2
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7706
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) FOX SPORT 3" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) FOX SPORT 3
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7705
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) FOX SPORTS PREMIUM" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) FOX SPORTS PREMIUM
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7704
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) TNT SPORT" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) TNT SPORT
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7703
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) DIRECT TV SPORTS" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) DIRECT TV SPORTS
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7702
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) DIRECT TV SPORTS 2" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) DIRECT TV SPORTS 2
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7701
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) DIRECT TV SPORTS PLUS" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) DIRECT TV SPORTS PLUS
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7700
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) ESPN" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) ESPN
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7699
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) ESPN 2" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) ESPN 2
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7698
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) ESPN 3" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) ESPN 3
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7697
+#EXTINF:-1 tvg-id="" tvg-name="(ARGENTINA) TYC" tvg-logo="" group-title="LATIN ✓GENERAL",(ARGENTINA) TYC
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7696
+#EXTINF:-1 tvg-id="" tvg-name="✓ (URUGUAY) GENERAL ✓" tvg-logo="" group-title="LATIN ✓GENERAL",✓ (URUGUAY) GENERAL ✓
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7695
+#EXTINF:-1 tvg-id="" tvg-name="(URUGUAY) TV CIUDAD" tvg-logo="" group-title="LATIN ✓GENERAL",(URUGUAY) TV CIUDAD
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7694
+#EXTINF:-1 tvg-id="" tvg-name="(URUGUAY) CANAL 10" tvg-logo="" group-title="LATIN ✓GENERAL",(URUGUAY) CANAL 10
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7693
+#EXTINF:-1 tvg-id="" tvg-name="(URUGUAY) TELE 12" tvg-logo="" group-title="LATIN ✓GENERAL",(URUGUAY) TELE 12
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7692
+#EXTINF:-1 tvg-id="" tvg-name="(URUGUAY) MONTECARLO TV" tvg-logo="" group-title="LATIN ✓GENERAL",(URUGUAY) MONTECARLO TV
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7691
+#EXTINF:-1 tvg-id="" tvg-name="(URUGUAY) TNU" tvg-logo="" group-title="LATIN ✓GENERAL",(URUGUAY) TNU
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7690
+#EXTINF:-1 tvg-id="" tvg-name="(URUGUAY) AV" tvg-logo="" group-title="LATIN ✓GENERAL",(URUGUAY) AV
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7689
+#EXTINF:-1 tvg-id="" tvg-name="(URUGUAY) CHARRUA TV" tvg-logo="" group-title="LATIN ✓GENERAL",(URUGUAY) CHARRUA TV
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7688
+#EXTINF:-1 tvg-id="" tvg-name="(URUGUAY) VTV HD" tvg-logo="" group-title="LATIN ✓GENERAL",(URUGUAY) VTV HD
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7687
+#EXTINF:-1 tvg-id="" tvg-name="(URUGUAY) VTV" tvg-logo="" group-title="LATIN ✓GENERAL",(URUGUAY) VTV
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7686
+#EXTINF:-1 tvg-id="" tvg-name="✓ (COLOMBIA) GENERAL ✓" tvg-logo="" group-title="LATIN ✓GENERAL",✓ (COLOMBIA) GENERAL ✓
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7685
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) CARACOL" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) CARACOL
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7684
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) CARACOL HD2" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) CARACOL HD2
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7683
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) CARACOL INTERNACIONAL" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) CARACOL INTERNACIONAL
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7682
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) RCN" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) RCN
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7681
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) RCN HD2" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) RCN HD2
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7680
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) RCN NOVELAS" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) RCN NOVELAS
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7679
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) SENAL COLOMBIA" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) SENAL COLOMBIA
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7678
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) TELEPACIFICO" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) TELEPACIFICO
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7677
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) TELEANTIOQUIA" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) TELEANTIOQUIA
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7676
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) TELE MEDELLIN" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) TELE MEDELLIN
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7675
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) TRECE" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) TRECE
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7674
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) CABLENOTICIAS" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) CABLENOTICIAS
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7673
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) CITY TV" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) CITY TV
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7672
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) CANAL CAPITAL" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) CANAL CAPITAL
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7671
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) CANAL INSTITUCIONAL" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) CANAL INSTITUCIONAL
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7670
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) CANAL TRO" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) CANAL TRO
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7669
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) CANAL UNO HD" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) CANAL UNO HD
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7668
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) CANTINAZO" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) CANTINAZO
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7667
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) CARACOL FHD" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) CARACOL FHD
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7666
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) COSMOVISION" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) COSMOVISION
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7665
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) EL TIEMPO" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) EL TIEMPO
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7664
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) LA KALLE HD" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) LA KALLE HD
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7663
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) NTN24" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) NTN24
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7662
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) TACHO PISTACHO" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) TACHO PISTACHO
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7661
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) TELECAFE" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) TELECAFE
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7660
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) TELECARIBE" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) TELECARIBE
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7659
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) CANAL TRECE HD" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) CANAL TRECE HD
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7658
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) TVGRO" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) TVGRO
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7657
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) TELEVID" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) TELEVID
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7656
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) WINSPORTS 1" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) WINSPORTS 1
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7655
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) WINSPORTS 2" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) WINSPORTS 2
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7654
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) WINSPORTS 3" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) WINSPORTS 3
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7653
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) DIRECTV SPORTS 1" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) DIRECTV SPORTS 1
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7652
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) DIRECTV SPORTS 2" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) DIRECTV SPORTS 2
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7651
+#EXTINF:-1 tvg-id="" tvg-name="(COLOMBIA) DIRECTV SPORTS PLUS" tvg-logo="" group-title="LATIN ✓GENERAL",(COLOMBIA) DIRECTV SPORTS PLUS
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7650
+#EXTINF:-1 tvg-id="" tvg-name="✓ (CHILE) GENERAL ✓" tvg-logo="" group-title="LATIN ✓GENERAL",✓ (CHILE) GENERAL ✓
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7649
+#EXTINF:-1 tvg-id="" tvg-name="(CHILE) CHILEVISION" tvg-logo="" group-title="LATIN ✓GENERAL",(CHILE) CHILEVISION
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7648
+#EXTINF:-1 tvg-id="" tvg-name="(CHILE) TVN" tvg-logo="" group-title="LATIN ✓GENERAL",(CHILE) TVN
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7647
+#EXTINF:-1 tvg-id="" tvg-name="(CHILE) 13 CABLE" tvg-logo="" group-title="LATIN ✓GENERAL",(CHILE) 13 CABLE
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7646
+#EXTINF:-1 tvg-id="" tvg-name="(CHILE) CANAL13" tvg-logo="" group-title="LATIN ✓GENERAL",(CHILE) CANAL13
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7645
+#EXTINF:-1 tvg-id="" tvg-name="(CHILE) LA RED" tvg-logo="" group-title="LATIN ✓GENERAL",(CHILE) LA RED
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7644
+#EXTINF:-1 tvg-id="" tvg-name="(CHILE) MEGA" tvg-logo="" group-title="LATIN ✓GENERAL",(CHILE) MEGA
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7643
+#EXTINF:-1 tvg-id="" tvg-name="(CHILE) CDF PREMIUN" tvg-logo="" group-title="LATIN ✓GENERAL",(CHILE) CDF PREMIUN
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7642
+#EXTINF:-1 tvg-id="" tvg-name="(CHILE) CNN" tvg-logo="" group-title="LATIN ✓GENERAL",(CHILE) CNN
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7641
+#EXTINF:-1 tvg-id="" tvg-name="(CHILE) CDF" tvg-logo="" group-title="LATIN ✓GENERAL",(CHILE) CDF
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7640
+#EXTINF:-1 tvg-id="" tvg-name="(CHILE) FOX SPORTS" tvg-logo="" group-title="LATIN ✓GENERAL",(CHILE) FOX SPORTS
+http://line.crystalott.net:80/BCDGPNNLHH/WJZWBSHFSN/7639
